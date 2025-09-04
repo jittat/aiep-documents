@@ -4,7 +4,7 @@ description: "หลักสูตรทางลัดที่ช่วยใ
 weight: 5
 ---
 
-<img src="/img/banners/4plus1-hero.png"
+<img src="../../../img/banners/4plus1-hero.png"
      alt="AI-Integrated Engineering 4+1 Program"
      style="max-width: 100%; height: auto; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 

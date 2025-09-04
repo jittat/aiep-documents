@@ -4,7 +4,7 @@ description: ทำไม AI-Integrated Engineering Program จึงเป็�
 weight: 2
 ---
 
-<img src="/img/banners/why-aiep.png"
+<img src="../../../img/banners/why-aiep.png"
      alt="ทำไมต้องเลือก AIEP?"
      style="width:100%; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 

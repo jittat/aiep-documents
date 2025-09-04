@@ -7,7 +7,7 @@ tagline: จากกระบวนการสู่ความชาญฉ�
 weight: 1
 ---
 
-<img src="/img/banners/chemical-hero.png"
+<img src="../../../../img/banners/chemical-hero.png"
      alt="AI-Integrated Chemical Engineering"
      style="max-width: 100%; height: auto; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 

@@ -3,7 +3,7 @@ title: KU-AIEP
 ---
 
 {{< blocks/cover title="AI-Integrated Engineering Program (AIEP)" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <p class="lead mt-5">บูรณาการปริญญาตรีวิศวกรรมศาสตร์ กับ ปริญญาโท AI — อย่างไร้รอยต่อ</p>
@@ -46,35 +46,35 @@ AIEP ถือกำเนิดจากมหาวิทยาลัยเก
 
 {{% blocks/section type="row" class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4"  %}}
 
-{{% blocks/feature icon="fas fa-vial" title="วิศวกรรมเคมี" url="/docs/4plus1/chemical/" %}}
+{{% blocks/feature icon="fas fa-vial" title="วิศวกรรมเคมี" url="docs/4plus1/chemical/" %}}
 เมื่อวัสดุและโมเลกุลมาบรรจบ — AI จะช่วยเพิ่มประสิทธิภาพให้ทุกปฏิกิริยา
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-city" title="วิศวกรรมโยธา" url="/docs/4plus1/civil/" %}}
+{{% blocks/feature icon="fas fa-city" title="วิศวกรรมโยธา" url="docs/4plus1/civil/" %}}
 ออกแบบเมืองอัจฉริยะด้วยการวิเคราะห์โครงสร้างและการพยากรณ์ที่ขับเคลื่อนด้วย AI
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-bolt" title="วิศวกรรมไฟฟ้า" url="/docs/4plus1/electrical/" %}}
+{{% blocks/feature icon="fas fa-bolt" title="วิศวกรรมไฟฟ้า" url="docs/4plus1/electrical/" %}}
 จากกริดอัจฉริยะถึงการประมวลผลสัญญาณ — AI ช่วยเพิ่มพลังให้วงจรของคุณ
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-leaf" title="วิศวกรรมสิ่งแวดล้อม" url="/docs/4plus1/environmental/" %}}
+{{% blocks/feature icon="fas fa-leaf" title="วิศวกรรมสิ่งแวดล้อม" url="docs/4plus1/environmental/" %}}
 รับมือปัญหามลพิษและภาวะโลกร้อนด้วยโซลูชันสิ่งแวดล้อมที่ขับเคลื่อนด้วยข้อมูล
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-industry" title="วิศวกรรมอุตสาหการ" url="/docs/4plus1/industrial/" %}}
+{{% blocks/feature icon="fas fa-industry" title="วิศวกรรมอุตสาหการ" url="docs/4plus1/industrial/" %}}
 เพิ่มประสิทธิภาพระบบซับซ้อน ทั้งในด้านการผลิต โลจิสติกส์ และการจัดการบุคลากร ด้วยพลังของ AI
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-cubes" title="วิศวกรรมวัสดุ" url="/docs/4plus1/materials/" %}}
+{{% blocks/feature icon="fas fa-cubes" title="วิศวกรรมวัสดุ" url="docs/4plus1/materials/" %}}
 ค้นพบวัสดุอัจฉริยะใหม่ ๆ ผ่านการจำลองและการทดลองที่ใช้ AI เป็นเครื่องมือหลัก
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-cogs"  title="วิศวกรรมเครื่องกล" url="/docs/4plus1/mechanical/" %}}
+{{% blocks/feature icon="fas fa-cogs"  title="วิศวกรรมเครื่องกล" url="docs/4plus1/mechanical/" %}}
 ผสานหุ่นยนต์ พลศาสตร์ และ AI เพื่อสร้างเครื่องจักรแห่งอนาคต
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-water" title="วิศวกรรมทรัพยากรน้ำ" url="/docs/4plus1/water/" %}}
+{{% blocks/feature icon="fas fa-water" title="วิศวกรรมทรัพยากรน้ำ" url="docs/4plus1/water/" %}}
 คาดการณ์น้ำท่วม จัดการทรัพยากรน้ำ — เมื่อ AI ถูกใช้ในระบบอุทกวิทยา
 {{% /blocks/feature %}}
 

@@ -4,7 +4,7 @@ title: KU-AIEP
 ---
 
 {{< blocks/cover title="AI-Integrated Engineering Program" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <p class="lead mt-5">AI-Integrated Engineering &mdash; Seamless Collaboration Across Disciplines</p>
@@ -51,35 +51,35 @@ Born at Kasetsart University, built for the world. AIEP gives you the global min
 
 {{% blocks/section type="row" class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4"  %}}
 
-{{% blocks/feature icon="fas fa-vial" title="Chemical Engineering" url="/docs/4plus1/chemical/" %}}
+{{% blocks/feature icon="fas fa-vial" title="Chemical Engineering" url="docs/4plus1/chemical/" %}}
 Where materials meet molecules — and AI optimizes every reaction.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-city" title="Civil Engineering" url="/docs/4plus1/civil/" %}}
+{{% blocks/feature icon="fas fa-city" title="Civil Engineering" url="docs/4plus1/civil/" %}}
 Design smart cities with AI-powered structural analysis and prediction.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-bolt" title="Electrical Engineering" url="/docs/4plus1/electrical/" %}}
+{{% blocks/feature icon="fas fa-bolt" title="Electrical Engineering" url="docs/4plus1/electrical/" %}}
 From smart grids to signal processing — AI amplifies your circuits.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-leaf" title="Environmental Engineering" url="/docs/4plus1/environmental/" %}}
+{{% blocks/feature icon="fas fa-leaf" title="Environmental Engineering" url="docs/4plus1/environmental/" %}}
 Tackle pollution and climate change with data-driven environmental solutions.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-industry" title="Industrial Engineering" url="/docs/4plus1/industrial/" %}}
+{{% blocks/feature icon="fas fa-industry" title="Industrial Engineering" url="docs/4plus1/industrial/" %}}
 Optimize complex systems with AI for operations, logistics, and people.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-cubes" title="Materials Engineering" url="/docs/4plus1/materials/" %}}
+{{% blocks/feature icon="fas fa-cubes" title="Materials Engineering" url="docs/4plus1/materials/" %}}
 Discover smarter materials through AI-driven simulations and experiments.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-cogs"  title="Mechanical Engineering" url="/docs/4plus1/mechanical/" %}}
+{{% blocks/feature icon="fas fa-cogs"  title="Mechanical Engineering" url="docs/4plus1/mechanical/" %}}
 Bring robotics, dynamics, and AI together to engineer future machines.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-water" title="Water Resources Engineering" url="/docs/4plus1/water/" %}}
+{{% blocks/feature icon="fas fa-water" title="Water Resources Engineering" url="docs/4plus1/water/" %}}
 Predict floods, manage resources — AI meets hydrological systems.
 {{% /blocks/feature %}}
 

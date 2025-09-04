@@ -4,7 +4,7 @@ linkTitle: หลักสูตร
 menu: {main: {weight: 20}}
 ---
 
-<img src="/img/banners/aiep-academics.png"
+<img src="../../../img/banners/aiep-academics.png"
      alt="หลักสูตรวิศวกรรมบูรณาการ AI มหาวิทยาลัยเกษตรศาสตร์"
      style="max-width: 50%; height: auto; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 

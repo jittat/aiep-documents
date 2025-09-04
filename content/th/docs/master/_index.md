@@ -4,7 +4,7 @@ linkTitle: หลักสูตรปริญญาโท
 weight: 5
 ---
 
-<img src="/img/banners/aiep-masters.png"
+<img src="../../../img/banners/ai-integrated-master-hero.png"
      alt="หลักสูตรปริญญาโทภายใต้โครงการ AI-Integrated Engineering ที่มหาวิทยาลัยเกษตรศาสตร์"
      style="width:100%; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 

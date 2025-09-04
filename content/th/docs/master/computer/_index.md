@@ -6,7 +6,7 @@ track: Computer Engineering
 tagline: ลึกในระบบ กว้างในโลกเทคโนโลยี
 ---
 
-<img src="/img/banners/master-computer-hero.png"
+<img src="../../../../img/banners/master-computer-hero.png"
      alt="วิศวกรรมศาสตรมหาบัณฑิต สาขาวิศวกรรมคอมพิวเตอร์"
      style="width:100%; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 

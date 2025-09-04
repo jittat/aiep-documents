@@ -4,7 +4,7 @@ description: ยินดีต้อนรับสู่อนาคตขอ�
 weight: 1
 ---
 
-<img src="/img/banners/overview-hero.png"
+<img src="../../../img/banners/overview-hero.png"
      alt="ภาพรวมของวิศวกรรมปัญญาประดิษฐ์บูรณาการ"
      style="width:100%; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 

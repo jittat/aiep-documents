@@ -4,7 +4,7 @@ description: Welcome to the future of engineering education — AI-Integrated En
 weight: 1
 ---
 
-<img src="/img/banners/overview-hero.png"
+<img src="../../img/banners/overview-hero.png"
      alt="AI-Integrated Engineering Overview"
      style="width:100%; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 

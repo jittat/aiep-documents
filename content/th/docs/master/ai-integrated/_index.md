@@ -3,7 +3,7 @@ title: "Master Programm in AI-Integrated Engineering"
 weight: 1
 ---
 
-<img src="/img/banners/ai-integrated-master-hero.png"
+<img src="../../../../img/banners/ai-integrated-master-hero.png"
      alt="วิศวกรรมศาสตรมหาบัณฑิต สาขาวิศวกรรมบูรณาการ AI"
      style="width:100%; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 
