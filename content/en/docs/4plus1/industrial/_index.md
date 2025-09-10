@@ -1,6 +1,6 @@
 ---
 title: AI-Integrated Industrial Engineering
-description: The next-gen industrial engineering program for smart factories, logistics automation, and decision intelligence.
+description: The next-generation industrial engineering program focused on smart factories, logistics automation, service operations, and decision intelligence.
 program: AIEP
 track: Industrial Engineering
 tagline: Optimize Smarter. Design Better. Powered by AI.
@@ -11,57 +11,59 @@ weight: 5
      alt="AI-Integrated Industrial Engineering"
      style="max-width: 100%; height: auto; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 
-> **AI-Integrated Industrial Engineering** redefines the role of IE professionals in an age where algorithms can automate decisions, optimize systems, and manage workflows.  
-> Instead of simply improving existing processes, graduates of this program are trained to co-design future-ready operations — using AI, data, and digital twins as their toolbox.
+> **AI-Integrated Industrial Engineering** transforms the industrial engineering profession for a world where algorithms automate decisions, optimize systems, and coordinate workflows. Graduates will not just improve existing processes; they will co-create future-ready operations using artificial intelligence, data, simulation, and digital twins as key tools. 
 
-> With strong foundations in operations research, supply chain, manufacturing systems, and human factors — enhanced with machine learning, simulation, and intelligent automation — students will lead the transformation of factories, warehouses, and digital operations.
-
-> Whether the task is real-time scheduling of production lines, predictive analytics for inventory, or developing human-in-the-loop decision systems, AI will no longer be optional — it will be your core toolkit.
-
----
+> Built on operations research, supply chain management, manufacturing systems, and human factors—and expanded with machine learning, simulation, and intelligent automation—students will lead changes in factories, warehouses, logistics networks, and service sectors like healthcare, finance, e-commerce, travel, and public services. From real-time scheduling and predictive inventory to human-in-the-loop decision systems, artificial intelligence becomes the primary toolkit.
 
 ## 🔍 Program Overview
 
-This track is part of the **AI-Integrated Engineering Program (AIEP)** and offered as a **special program** under the Department of Industrial Engineering.
+This track is part of the **AI-Integrated Engineering Program (AIEP)** and offered only for **IUP (English Program)** under the Department of Industrial Engineering.
 
 - 🧑‍🏫 **Bachelor’s Program**: B.Eng. in Industrial Engineering
 - 🎓 **Master’s Program**: M.Eng. in AI-Integrated Engineering
 - 📅 **First intake**: Academic Year 2026
 - 👥 **Number of Students**: 20
 - ✅ **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
-- 🚫 Not available in regular or IUP tracks
+- 🚫 Not offered in regular or special program (Thai Program)
 
 ---
 
 ## 🧠 Program Highlights
 
-- Build AI fluency in the context of industrial systems: supply chains, manufacturing, logistics, service ops
-- Co-taught by industrial engineering and computer engineering faculty
-- Strong emphasis on real-world problem solving through Capstone and Master's Projects
-- Use of optimization + AI tools (e.g., reinforcement learning, simulation-based scheduling)
-- Collaboration with smart manufacturing labs and industry partners
-- Shared learning community with peers from other AI+Engineering tracks
+- Co-teaching by faculty members from both the Department of Industrial Engineering and the Department of Computer Engineering
+- End-to-end integration of industrial engineering and artificial intelligence: operations research models enhanced by machine learning and reinforcement learning; simulation-based policy testing; predict-then-optimize decision-making workflows.
+- Studios and laboratories: Digital Twin Studio; Decision Intelligence Laboratory; Automation and Sensing Laboratory (covering the Industrial Internet of Things, computer vision, and time-series analysis).
+- Real data with measurable outcomes: industry projects focusing on throughput, work-in-process, lead time, service level, and energy consumption.
+- Human-Centered Artificial Intelligence: Explainable Interfaces, Workload Design, and Safety Grounded in Human Factors.
+- Deployment mindset: operational machine-learning practices, governance, privacy, ethics, and change management.
+- Service-industry emphasis: Omnichannel service analytics, workforce rostering, queueing networks, appointment and capacity planning, revenue management, and operations governed by service-level commitments (for contact centers, hospitals and clinics, airports and airlines, banks and e-commerce, and public sectors).
+- Undergraduate-to-graduate pathway: Capstone aligned with the four-plus-one progression toward learning-based control.
 
 ---
 
 ## 📚 What You’ll Learn
 
-- Operations research + ML: from linear programming to neural schedulers
-- AI in production planning, quality control, and facility layout
-- Predictive maintenance using sensor + event data
-- Digital twin modeling for factories and supply chains
-- AI + Human Factors: how to design interfaces for decision intelligence
-- Capstone with real data from industrial partners
+- Foundations of industrial engineering: deterministic and stochastic operations research; production and inventory management; facility layout; queueing theory; ergonomics and safety. 
+- Artificial intelligence and data backbone: programming for data; time-series modeling and anomaly detection; supervised and unsupervised machine learning; reinforcement learning for scheduling and control. 
+- Simulation and digital twins: discrete-event and agent-based simulation; twin-driven experimentation; stress testing of policies. 
+- Optimization at scale: mixed-integer programming, constraint programming, and decomposition; heuristics and metaheuristics; robust and risk-aware planning. 
+- Decision intelligence: predict-then-optimize workflows, causal reasoning, development of key performance indicators and dashboards, explainability, and human-in-the-loop systems. 
+- Responsible deployment: data governance, model validation, controlled experiments (A/B testing), monitoring, and lifecycle management. 
+- Service systems): service design and queueing networks; skill-based routing and analytics for contact centers; appointment and surge-capacity planning in healthcare; dynamic pricing and revenue management; customer-journey and churn analytics; service quality engineering and service-level commitments.
 
 ---
 
 ## 🧪 Sample Capstone and Research Topics
 
-- Intelligent scheduling with reinforcement learning
-- Predictive maintenance for automated lines using time-series ML
-- Demand forecasting and inventory optimization
-- Digital twin of a warehouse with AI-based route optimization
-- Human-AI collaboration in control room environments
+- Reinforcement-learning-driven job-shop or flow-shop scheduling with energy or due-date objectives.
+- Predictive maintenance from sensor and event logs with cost-of-failure optimization.
+- Demand sensing with inventory optimization under service-level targets.
+- Warehouse digital twins for co-optimization of routing, slotting, and labour scheduling.
+- Dynamic vehicle routing with uncertain travel times and real-time dispatch.
+- Quality analytics using computer vision with prescriptive rework policies.
+- Service operations: workforce rostering that balances fairness, fatigue, and demand uncertainty.
+- Control-room decision support: alert triage and explainable recommendations.
+- Service-sector: contact-centre staffing and skill-based routing; hospital clinic appointment scheduling and bed or operating-room capacity planning; airline disruption recovery and crew pairing; dynamic pricing and capacity allocation for e-commerce or mobility services; optimization of service-level commitments for information-technology and shared-service operations.
 
 ---
 
@@ -70,43 +72,53 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)** and offer
 - Delta Electronics (smart factory collaboration)
 - Thai logistics, warehouse, and industrial automation firms (in development)
 - Research groups in intelligent systems at Kasetsart University
+- Service-sector collaborators (in development): hospital and health networks, banks and financial-technology firms, e-commerce platforms, and public-service agencies
 
 ---
 
 ## 🔄 4+1 Pathway
 
-- Option to continue into AI-Integrated M.Eng. with aligned Capstone/Master project
+- Option to continue into AI-Integrated M.Eng. with aligned Capstone or thesis topic.
 - Emphasis on transitioning from deterministic models to learning-based control
-- Requires satisfactory academic and project performance
+- Requires satisfactory academic standing and project performance
 
 ---
 
 ## 🧭 Career Opportunities
 
-- Smart factory engineers (automation + optimization)
-- Supply chain analytics specialists
-- Decision system designers in service ops
-- Industrial data scientists or simulation engineers
-- AI-enhanced operations managers or startup founders
+- Smart-factory and automation engineer for production lines, robotics coordination, and real-time control
+- Operations research and optimization engineer for scheduling, planning, and network design
+- Supply chain and logistics analytics specialist for forecasting, inventory, routing, and risk-aware planning
+- Industrial data scientist and simulation engineer for time-series analysis, anomaly detection, and digital-twin experimentation
+- Digital-twin and systems-integration engineer for factories, warehouses, and service operations
+- Decision-intelligence and human-centred systems designer for control rooms, contact centres, and enterprise platforms
+- Reliability and predictive-maintenance engineer using sensor and event data
+- Operations manager in manufacturing or service organizations who can lead technology adoption and change
+- Entrepreneur or product leader building decision and automation solutions for industry and services
 
 ---
 
 ## 🌟 Competitive Advantages
 
 - Go beyond Excel and heuristics — learn to use cutting-edge AI to solve ops problems
+- End-to-end capability: from modelling and forecasting to optimization, deployment, and continuous monitoring
 - Master tools for simulation, real-time control, and decision modeling
 - Be ready for disruption, not replaced by it — design the systems that will reshape your field
 - Join a cross-functional ecosystem of AI+Engineering innovators
+- Portfolio on graduation that includes reproducible models, simulation artefacts, and operational playbooks
+
 
 ---
 
 ## 🎒 Enrichment Activities
 
-- Industry-based Capstone projects in smart manufacturing or logistics
-- Undergraduate Research Opportunities (UROP) with AI and optimization labs
-- Internships in factories, service ops, or analytics teams
-- Technical workshops on OR + ML + simulation integration
-- Visits to industrial AI application sites
+- Industry-based Capstone projects in smart manufacturing, logistics and service operations with real data
+- Undergraduate Research Opportunities with AI and optimization labs
+- Internships in factories, hospitals and clinics, banks and commerce platforms, airlines and airports, and technology service organizations
+- Technical workshops on the integration of operations research, machine learning, simulation, and responsible deployment
+- Site visits to production plants, distribution centres, control rooms, and service-operations hubs
+- Practitioner seminars, guest lectures, and mentorship from industry partners
+- Case competitions and design studios focused on decision intelligence and human-in-the-loop systems
 
 ---
 
@@ -123,7 +135,8 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)** and offer
 Graduates of this track will:
 
 - Combine classic IE methods with modern AI techniques
+- Model, analyse, and optimize complex operations in manufacturing, logistics, and service environments
 - Design adaptive, data-driven systems that respond to real-time changes
 - Lead automation projects that integrate human and AI decision-making
-- Speak the language of both floor operations and machine learning
+- Communicate with both floor-operations teams and information-technology teams to lead cross-functional change
 - Be resilient in a changing job market where AI redefines operations leadership

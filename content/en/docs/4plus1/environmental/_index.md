@@ -24,7 +24,7 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is of
 - 🧑‍🏫 **Bachelor’s Program**: Bachelor of Engineering (Environmental Engineering)
 - 🎓 **Master’s Program**: Master of Engineering (AI-Integrated Engineering)
 - 📅 **First intake**: Academic Year 2026
-- 👥 **Number of Students**: 
+- 👥 **Number of Students**: 10
 - 🧑‍🏫 **Eligible Group**: International Undergraduate Program (IUP)
 - ✅ **Admission Channels**: TCAS3 (Admission)
 
