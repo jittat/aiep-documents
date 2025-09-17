@@ -1,4 +1,4 @@
-baseURL: https://www.cpe.ku.ac.th/aieptest/
+baseURL: https://aiep.eng.ku.ac.th/
 title: KU AI-Integrated Engineering Program
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu

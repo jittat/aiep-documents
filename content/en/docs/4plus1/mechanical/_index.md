@@ -7,7 +7,7 @@ tagline: Build the Body. Empower the Mind. Reinvent the Machine.
 weight: 7
 ---
 
-<img src="../../../img/banners/mechanical-hero.png"
+<img src="/img/banners/mechanical-hero.png"
      alt="AI-Integrated Mechanical Engineering"
      style="max-width: 100%; height: auto; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 
@@ -24,22 +24,25 @@ weight: 7
 
 This track is part of the **AI-Integrated Engineering Program (AIEP)** and offered as a **special program** under the Department of Mechanical Engineering.
 
-- 🧑‍🏫 **Bachelor’s Program**: B.Eng. in Mechanical Engineering
-- 🎓 **Master’s Program**: M.Eng. in AI-Integrated Engineering
+- 🧑‍🏫 **Bachelor’s Program**: Bachelor of Engineering in Mechanical Engineering
+- 🎓 **Master’s Program**: Master of Engineering in AI-Integrated Engineering
 - 📅 **First intake**: Academic Year 2026
-- 👥 **Number of Students**: 20
-- ✅ **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
-- 🚫 Not available in regular or IUP tracks
+- 👥 **Number of Students**: 10
+- ✅ **Admission Channels**: TCAS1 (Portfolio) IUP
+- 🚫 Not offered in the regular and special program
 
 ---
 
 ## 🧠 Program Highlights
 
 - Combine mechanical systems modeling with AI-based prediction and control
-- Emphasize simulation, sensor integration, and mechatronic systems
-- Capstone and Master's Projects focus on real-world problems: robotics, mobility, energy
+- Emphasize simulation, sensor integration, and mechatronic systems, for Industry 4.0 and cyber-physical applications
+- Capstone and Master’s Projects address real-world challenges in robotics, sustainable mobility, energy systems, and smart automation
 - Joint courses from mechanical and computer engineering departments
-- Industry collaboration in smart manufacturing, automotive, and robotics
+- Strong industry collaboration in smart manufacturing, automotive, energy, and robotics, including internships, joint labs, and co-supervised research
+- Training in digital twin technologies and model-based systems engineering for predictive maintenance and performance optimization
+- Integration of IoT, embedded systems, and real-time data analytics into mechanical design and control courses.
+- Opportunities for international collaboration and exchange programs with partner universities and global research institutes.  
 
 ---
 
@@ -65,10 +68,13 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)** and offer
 
 ## 🤝 Industry & Research Partners
 
-- Delta Electronics
-- Toyota, Honda R&D Asia Pacific
+- KU-Mech x Siemens-Daikin-Delta 
+- Misumi x KU-Mech Hardware Library
+- Denso Company 
+- Rockwell Automation
+- Azbil Experience Space @ KU     
 - Energy research and automation labs at Kasetsart University
-- Research collaborations with partners in robotics and mobility
+
 
 ---
 
