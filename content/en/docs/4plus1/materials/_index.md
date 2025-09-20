@@ -44,13 +44,13 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is of
 
 ---
 
-## 📚 What You’ll Learn
+## 📚 What You'll Learn
 
-- Core materials science: metals, polymers, ceramics, composites
-- Applications in electronics, semiconductors, biomaterials, energy
-- Applied AI for materials design, simulation, failure analysis, and optimization
-- Capstone project with real industrial datasets
-- Cross-functional collaboration on AI-driven engineering problems
+Students will gain comprehensive knowledge in core materials science, including the fundamentals of metals, polymers, ceramics, and composites. The program covers diverse applications across electronics, semiconductors, biomaterials, and energy sectors, providing a broad foundation in materials engineering.
+
+Students will learn to apply AI techniques for materials design, simulation, failure analysis, and optimization, bridging traditional materials science with cutting-edge computational methods. The curriculum includes a capstone project that utilizes real industrial datasets, giving students hands-on experience with actual industry challenges.
+
+Throughout the program, students will develop skills in cross-functional collaboration on AI-driven engineering problems, working alongside peers from other AIEP tracks to solve complex, interdisciplinary challenges that reflect real-world engineering practice.
 
 ---
 

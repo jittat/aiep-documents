@@ -41,15 +41,17 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)** and offer
 
 ---
 
-## 📚 What You’ll Learn
+## 📚 What You'll Learn
 
-- Foundations of industrial engineering: deterministic and stochastic operations research; production and inventory management; facility layout; queueing theory; ergonomics and safety. 
-- Artificial intelligence and data backbone: programming for data; time-series modeling and anomaly detection; supervised and unsupervised machine learning; reinforcement learning for scheduling and control. 
-- Simulation and digital twins: discrete-event and agent-based simulation; twin-driven experimentation; stress testing of policies. 
-- Optimization at scale: mixed-integer programming, constraint programming, and decomposition; heuristics and metaheuristics; robust and risk-aware planning. 
-- Decision intelligence: predict-then-optimize workflows, causal reasoning, development of key performance indicators and dashboards, explainability, and human-in-the-loop systems. 
-- Responsible deployment: data governance, model validation, controlled experiments (A/B testing), monitoring, and lifecycle management. 
-- Service systems): service design and queueing networks; skill-based routing and analytics for contact centers; appointment and surge-capacity planning in healthcare; dynamic pricing and revenue management; customer-journey and churn analytics; service quality engineering and service-level commitments.
+Students will build strong foundations in industrial engineering, including deterministic and stochastic operations research, production and inventory management, facility layout, queueing theory, ergonomics and safety. These core competencies provide the essential framework for understanding and optimizing complex systems and processes.
+
+The program develops artificial intelligence and data capabilities through programming for data analysis, time-series modeling and anomaly detection, supervised and unsupervised machine learning, and reinforcement learning for scheduling and control. Students learn to leverage these technologies to enhance traditional industrial engineering methods with intelligent automation and predictive analytics.
+
+Students will master simulation and digital twins through discrete-event and agent-based simulation, twin-driven experimentation, and stress testing of policies. The curriculum covers optimization at scale, including mixed-integer programming, constraint programming and decomposition, heuristics and metaheuristics, and robust and risk-aware planning techniques.
+
+The program emphasizes decision intelligence through predict-then-optimize workflows, causal reasoning, development of key performance indicators and dashboards, explainability, and human-in-the-loop systems. Students learn responsible deployment practices including data governance, model validation, controlled experiments (A/B testing), monitoring, and lifecycle management.
+
+Additionally, students will specialize in service systems, covering service design and queueing networks, skill-based routing and analytics for contact centers, appointment and surge-capacity planning in healthcare, dynamic pricing and revenue management, customer-journey and churn analytics, service quality engineering, and service-level commitments.
 
 ---
 

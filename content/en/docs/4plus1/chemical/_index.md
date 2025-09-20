@@ -41,11 +41,13 @@ The Bachelor of Engineering in Chemical Engineering integrated with Artificial I
 
 ---
 
-## 📚 What You’ll Learn
+## 📚 What You'll Learn
 
-- Core knowledge in **chemical reactions, separations, thermodynamics, mass/energy transfer, process simulation, entrepreneurship, life cycle assessment, and sustainable process design**  
-- Applying AI in **predicting product properties, chemical reactions, process optimization, predictive maintenance, and smart supply chains**  
-- Hands-on practice in laboratories and workshops on smart sensors, process simulation software, and data platforms
+Students will develop core knowledge in chemical reactions, separations, thermodynamics, mass and energy transfer, process simulation, entrepreneurship, life cycle assessment, and sustainable process design. This comprehensive foundation covers the essential principles of chemical engineering while integrating business and sustainability perspectives.
+
+The program teaches students to apply AI in predicting product properties, chemical reactions, process optimization, predictive maintenance, and smart supply chains. This integration enables students to leverage artificial intelligence for solving complex chemical engineering challenges and optimizing industrial processes.
+
+Students will gain hands-on practice in laboratories and workshops focused on smart sensors, process simulation software, and data platforms. This practical experience ensures graduates are proficient with modern tools and technologies used in contemporary chemical engineering practice.
 
 ---
 

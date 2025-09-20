@@ -46,12 +46,13 @@ Modern civil engineers must design for complexity, uncertainty, and urban dynami
 
 ---
 
-## 📚 What You’ll Learn
-- Structural engineering + AI for predictive maintenance  
-- Traffic and Transportation engineering + AI for traffic optimization  
-- Survey engineering + GeoAI from spatial data  
-- Construction management + AI for cost/schedule risk  
-- Urban planning with AI-informed behavioral modeling  
+## 📚 What You'll Learn
+
+Students will master structural engineering enhanced with AI for predictive maintenance, learning to monitor and analyze infrastructure health using advanced computational methods. The program integrates traffic and transportation engineering with AI for traffic optimization, enabling students to design intelligent transportation systems that adapt to real-time conditions.
+
+The curriculum covers survey engineering combined with GeoAI applications for spatial data analysis, teaching students to extract meaningful insights from geographic information systems and remote sensing data. Students will learn construction management enhanced with AI for cost and schedule risk assessment, providing tools to optimize project delivery and resource allocation.
+
+The program also encompasses urban planning with AI-informed behavioral modeling, preparing students to design human-centered infrastructure by analyzing mobility patterns and behavioral data from sensors and mobile devices. This comprehensive approach ensures graduates can tackle the complex challenges of modern civil engineering while leveraging artificial intelligence for smarter, more sustainable solutions.  
 
 ---
 

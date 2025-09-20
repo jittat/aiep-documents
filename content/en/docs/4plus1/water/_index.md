@@ -40,13 +40,13 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)** and is of
 
 ---
 
-## 📚 What You’ll Learn
+## 📚 What You'll Learn
 
-- Core Water Engineering: Hydrology, hydraulics, irrigation, and drainage design.
-- Data Science & AI: Python programming, databases, machine learning, deep learning, and predictive modeling.
-- AI for Water Solutions: AI-driven forecasting of floods and droughts, smart dam and reservoir operations, and water loss detection.
-- Smart Water Technologies: IoT, drones, and satellites for water monitoring and analysis.
-- Policy & Sustainability: Water governance, climate change, and sustainable water resource development.
+Students will develop expertise in core water engineering fundamentals, including hydrology, hydraulics, irrigation, and drainage design, providing the essential foundation for understanding water systems and infrastructure. The program integrates comprehensive data science and AI education, covering Python programming, databases, machine learning, deep learning, and predictive modeling specifically tailored for water resources applications.
+
+The curriculum teaches AI for water solutions, including AI-driven forecasting of floods and droughts, smart dam and reservoir operations, and advanced water loss detection systems. Students will master smart water technologies, learning to utilize IoT sensors, drones, and satellites for comprehensive water monitoring and analysis, enabling real-time assessment and management of water resources.
+
+The program also emphasizes policy and sustainability aspects, covering water governance, climate change impacts, and sustainable water resource development. This holistic approach ensures graduates can address technical challenges while understanding the broader policy and environmental context necessary for effective water resource management in a changing climate.
 
 ---
 

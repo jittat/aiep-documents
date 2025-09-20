@@ -77,13 +77,13 @@ Graduates will be future-ready engineers who understand both the physics of real
 
 ---
 
-## 🧠 What You’ll Learn
+## 🧠 What You'll Learn
 
-- Design and development of smart power grids with energy forecasting
-- AI for signal processing, medical systems, and multimedia applications
-- Embedded AI development for IoT and edge devices
-- Intelligent control systems for robotics and Industry 4.0 
-- Cultivating skills in analysis, problem-solving, and teamwork
+Students will learn the design and development of smart power grids with energy forecasting capabilities, integrating renewable energy sources and optimizing electricity distribution through intelligent demand prediction. The program covers AI applications in signal processing, medical systems, and multimedia applications, enabling students to develop sophisticated algorithms for various electrical engineering domains.
+
+The curriculum includes embedded AI development for IoT and edge devices, teaching students to implement artificial intelligence on resource-constrained systems for real-time decision making. Students will master intelligent control systems for robotics and Industry 4.0, learning to create adaptive automation solutions that respond to dynamic industrial environments.
+
+Throughout the program, students will cultivate essential skills in analysis, problem-solving, and teamwork, preparing them to tackle complex electrical engineering challenges collaboratively. This comprehensive approach ensures graduates can bridge traditional electrical engineering principles with cutting-edge AI technologies to create innovative solutions for modern technological challenges.
 
 ---
 

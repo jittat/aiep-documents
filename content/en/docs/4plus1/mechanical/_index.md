@@ -46,13 +46,13 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)** and offer
 
 ---
 
-## 📚 What You’ll Learn
+## 📚 What You'll Learn
 
-- Dynamics, thermofluids, and control systems with simulation tools
-- Applied AI for system identification, predictive control, and fault detection
-- Mechatronics: sensors, actuators, controllers, and embedded AI
-- Autonomous systems: vehicle, drone, and robotic navigation
-- Energy systems: AI for HVAC, renewable integration, efficiency optimization
+Students will master dynamics, thermofluids, and control systems with advanced simulation tools, developing a solid foundation in mechanical engineering principles enhanced by computational modeling. The program teaches applied AI for system identification, predictive control, and fault detection, enabling students to create intelligent mechanical systems that can monitor and optimize their own performance.
+
+The curriculum covers comprehensive mechatronics education, including sensors, actuators, controllers, and embedded AI, preparing students to design integrated systems that seamlessly combine mechanical, electrical, and intelligent components. Students will learn to develop autonomous systems for vehicle, drone, and robotic navigation, gaining expertise in the technologies driving the future of mobility and automation.
+
+The program also focuses on energy systems with AI applications for HVAC, renewable integration, and efficiency optimization. This knowledge prepares students to address critical challenges in energy management and sustainability while leveraging artificial intelligence to maximize system performance and minimize environmental impact.
 
 ---
 
