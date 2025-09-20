@@ -12,3 +12,5 @@ package-lock.json
 # OS junk
 .DS_Store
 Thumbs.db
+
+public.tgz
