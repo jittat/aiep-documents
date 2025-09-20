@@ -16,7 +16,7 @@ weight: 3
 
 > Not every electrical engineering student begins with a strong AI background — but every student can build it. 
 
-> If you're building systems — power grids, communication networks, electronic circuits, or controls — it's time to equip yourself with the tools that will shape the next era.
+If you're building systems — power grids, communication networks, electronic circuits, or controls — it's time to equip yourself with the tools that will shape the next era.
 
 This track is designed for students in Power Engineering, Communication Engineering, Electronics, and Control & Robotics who wish to enhance their skills with AI intelligence and prepare for the future.
 
