@@ -72,20 +72,23 @@ markup:
 
 # Comment out if you don't want the "print entire section" link enabled.
 outputs:
-  section: [HTML, print, RSS]
+  section: [HTML, RSS]
 
 params:
   taxonomy:
     # set taxonomyCloud = [] to hide taxonomy clouds
-    taxonomyCloud: [tags, categories]
+    # taxonomyCloud: [tags, categories]
+    taxonomyCloud: []
 
     # If used, must have same length as taxonomyCloud
-    taxonomyCloudTitle: [Tag Cloud, Categories]
+    #taxonomyCloudTitle: [Tag Cloud, Categories]
+    taxonomyCloudTitle: []
 
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
-    taxonomyPageHeader: [tags, categories]
+    #taxonomyPageHeader: [tags, categories]
+    taxonomyPageHeader: []
 
-  privacy_policy: https://policies.google.com/privacy
+  #privacy_policy: https://policies.google.com/privacy
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
@@ -152,7 +155,7 @@ params:
     # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
     # add "hide_feedback: true" to the page's front matter.
     feedback:
-      enable: true
+      enable: false
       # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
       'yes': >-
         Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.
