@@ -14,14 +14,14 @@ The **AI-Integrated Engineering Program (AIEP)** at Kasetsart University prepare
 
 ---
 
-### 🧑‍🎓 Academic Offerings
+###  Academic Offerings
 
-#### 🎯 Bachelor + Master (4+1)
+####  Bachelor + Master (4+1)
 
 A fast-track pathway that lets students complete both degrees in five years:
 - [Explore 4+1 Programs](/docs/4plus1/)
 
-#### 🎓 Standalone Master’s Degrees
+####  Standalone Master’s Degrees
 
 - [M.Eng. in AI-Integrated Engineering](/docs/master/aieng/)
 - [M.Eng. in Computer Engineering](/docs/master/computer/)
@@ -30,7 +30,7 @@ A fast-track pathway that lets students complete both degrees in five years:
 
 ---
 
-### 📌 Resources
+###  Resources
 
 - [Overview of AIEP](/overview/)
 - [Getting Started](/docs/getting-started/)

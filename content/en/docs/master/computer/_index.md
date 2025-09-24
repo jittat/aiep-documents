@@ -32,17 +32,17 @@ Students in these programs who complete foundational graduate-level coursework d
 
 ## Key Highlights
 
-- 💡 **AI and Beyond**: While the AIEP emphasizes AI, this track welcomes students interested in broader computer engineering fields such as:
+-  **AI and Beyond**: While the AIEP emphasizes AI, this track welcomes students interested in broader computer engineering fields such as:
   - Computer architecture and embedded systems  
   - Cybersecurity and networks  
   - Software systems and development methodologies  
   - Computer vision and human-computer interaction  
 
-- ⚙️ **Flexible Curriculum**: Customize your learning path with elective courses aligned with your interests and career goals.
+-  **Flexible Curriculum**: Customize your learning path with elective courses aligned with your interests and career goals.
 
-- 🤝 **Research and Industry Integration**: Opportunities to collaborate with faculty on cutting-edge research or apply your knowledge in industry-driven projects.
+-  **Research and Industry Integration**: Opportunities to collaborate with faculty on cutting-edge research or apply your knowledge in industry-driven projects.
 
-- 🎓 **For Future Technologists**: Ideal for students seeking careers in research, product development, system design, or doctoral studies.
+-  **For Future Technologists**: Ideal for students seeking careers in research, product development, system design, or doctoral studies.
 
 ## Career Opportunities
 

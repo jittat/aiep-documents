@@ -22,9 +22,9 @@ Each academic track is co-developed by the Department of Computer Engineering an
 
 ## Why It Matters
 
-- 🌍 Real-world relevance: Use data and AI to solve pressing challenges
-- 🤝 Interdisciplinary teamwork: Learn with peers from different engineering domains
-- 💼 Career-ready: Build a portfolio with real datasets and industry projects
+-  Real-world relevance: Use data and AI to solve pressing challenges
+-  Interdisciplinary teamwork: Learn with peers from different engineering domains
+-  Career-ready: Build a portfolio with real datasets and industry projects
 
 ---
 
@@ -43,7 +43,7 @@ Each academic track is co-developed by the Department of Computer Engineering an
 
 ## Where to Go Next?
 
-- 🔍 [4+1 Program](/docs/4plus1/)
-- 🎓 [Master’s Programs](/docs/master/)
-- 🧭 [Getting Started Guide](/docs/getting-started/)
+-  [4+1 Program](/docs/4plus1/)
+-  [Master’s Programs](/docs/master/)
+-  [Getting Started Guide](/docs/getting-started/)
 - ❓ [FAQ](/docs/faq/)

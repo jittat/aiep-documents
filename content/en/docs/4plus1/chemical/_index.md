@@ -17,22 +17,22 @@ weight: 1
 
 ---
 
-## 🔍 Program Overview
+##  Program Overview
 
 The Bachelor of Engineering in Chemical Engineering integrated with Artificial Intelligence, Business, and Sustainability (International Program) **IChEˣ IUP** of the Department of Chemical Engineering normally admits students through TCAS Round 1 (portfolio) and Admission Round 3, with a combined total of 40 students.
 
 > The **AI-Integrated Engineering Program (AIEP)** is offered in a 4+1 integrated format between the IChEˣ program of the Department of Chemical Engineering and the Master of Engineering in AI-Integrated Engineering of the Department of Computer Engineering.
 
-- 🧑‍🏫 **Bachelor’s Degree**: Bachelor of Engineering (Chemical Engineering integrated with AI, Business, and Sustainability – International Program)  
-- 🎓 **Master’s Degree**: Master of Engineering (AI-Integrated Engineering)  
-- 📅 **First Intake**: Academic Year 2027  
-- 👥 **Number of Students**: 15  
-- ✅ **Admission Channel**: TCAS Round 1 (Portfolio) IUP  
-- 🚫 Not offered in the regular special program
+-  **Bachelor’s Degree**: Bachelor of Engineering (Chemical Engineering integrated with AI, Business, and Sustainability – International Program)  
+-  **Master’s Degree**: Master of Engineering (AI-Integrated Engineering)  
+-  **First Intake**: Academic Year 2027  
+-  **Number of Students**: 15  
+-  **Admission Channel**: TCAS Round 1 (Portfolio) IUP  
+-  Not offered in the regular special program
 
 ---
 
-## 🧠 Program Highlights
+##  Program Highlights
 
 - Focus on **digital transformation** in chemical, food, and energy engineering processes  
 - Courses co-taught by experts in **chemical process systems** and **AI-based simulation**  
@@ -41,7 +41,7 @@ The Bachelor of Engineering in Chemical Engineering integrated with Artificial I
 
 ---
 
-## 📚 What You'll Learn
+##  What You'll Learn
 
 Students will develop core knowledge in chemical reactions, separations, thermodynamics, mass and energy transfer, process simulation, entrepreneurship, life cycle assessment, and sustainable process design. This comprehensive foundation covers the essential principles of chemical engineering while integrating business and sustainability perspectives.
 
@@ -51,7 +51,7 @@ Students will gain hands-on practice in laboratories and workshops focused on sm
 
 ---
 
-## 🧪 Example Research Topics
+##  Example Research Topics
 
 - Design of materials and chemical processes using AI  
 - Machine learning for predictive maintenance in chemical plants  
@@ -62,7 +62,7 @@ Students will gain hands-on practice in laboratories and workshops focused on sm
 
 ---
 
-## 🤝 Industry and Research Partners
+##  Industry and Research Partners
 
 - **Nara Advanced Institute of Science and Technology (Japan)**  
 - **National Tsing Hua University, Taiwan**  
@@ -72,7 +72,7 @@ Students will gain hands-on practice in laboratories and workshops focused on sm
 
 ---
 
-## 🔄 4+1 Pathway
+##  4+1 Pathway
 
 - Students must meet academic requirements by their 3rd year  
 - 4th-year project linked to Master’s research in the 5th year  
@@ -80,7 +80,7 @@ Students will gain hands-on practice in laboratories and workshops focused on sm
 
 ---
 
-## 🧭 Career Opportunities
+##  Career Opportunities
 
 - AI-driven process engineer  
 - Production and quality engineer in food and pharmaceutical industries  
@@ -92,7 +92,7 @@ Students will gain hands-on practice in laboratories and workshops focused on sm
 
 ---
 
-## 🌟 Competitive Advantages
+##  Competitive Advantages
 
 - Dual degree (B.Eng. + M.Eng.) in high-impact engineering fields  
 - Deep interdisciplinary collaboration between chemical and computer engineering  
@@ -102,7 +102,7 @@ Students will gain hands-on practice in laboratories and workshops focused on sm
 
 ---
 
-## 🎒 Enrichment Activities
+##  Enrichment Activities
 
 - Opportunities for undergraduate research (UROP)  
 - Internships with partners in Thailand and abroad  
@@ -112,7 +112,7 @@ Students will gain hands-on practice in laboratories and workshops focused on sm
 
 ---
 
-## 🧩 AI Foundation Courses (Undergraduate Level)
+##  AI Foundation Courses (Undergraduate Level)
 
 - **Applied AI for Engineering** (01204162)  
 - **Mathematical Foundations for AI Engineers** (0120426x)  
@@ -123,7 +123,7 @@ Students will gain hands-on practice in laboratories and workshops focused on sm
 
 ---
 
-## 🎓 Distinctive Graduate Outcomes
+##  Distinctive Graduate Outcomes
 
 Graduates of this program will:
 

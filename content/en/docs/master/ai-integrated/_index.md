@@ -15,17 +15,17 @@ This program is open to graduates from **all disciplines**, not just computer sc
 
 ### Key Features
 
-- 🔬 **AI-Driven Specialization**: Students apply AI techniques (e.g., machine learning, data science, computer vision) to real-world problems within their domain.
-- 🧠 **Deep + Applied Learning**: While the focus is application-oriented, students will gain **deep conceptual understanding** and learn to integrate AI with prior engineering knowledge.
-- ⚙️ **For Everyone, Optimized for 4+1**: Students from any background can succeed, but those from the 4+1 track will skip foundational AI/practical programming preparation and directly pursue advanced integration and research.
+-  **AI-Driven Specialization**: Students apply AI techniques (e.g., machine learning, data science, computer vision) to real-world problems within their domain.
+-  **Deep + Applied Learning**: While the focus is application-oriented, students will gain **deep conceptual understanding** and learn to integrate AI with prior engineering knowledge.
+-  **For Everyone, Optimized for 4+1**: Students from any background can succeed, but those from the 4+1 track will skip foundational AI/practical programming preparation and directly pursue advanced integration and research.
 
 ### Graduation Requirements
 
 To complete the degree, students must:
 
-- 🧪 Conduct a research project relevant to AI in engineering
+-  Conduct a research project relevant to AI in engineering
 - 📄 Publish at least one peer-reviewed article or conference paper
-- 🎓 Demonstrate the ability to integrate AI with domain knowledge through a thesis or capstone project
+-  Demonstrate the ability to integrate AI with domain knowledge through a thesis or capstone project
 
 ### Career Opportunities
 

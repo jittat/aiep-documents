@@ -15,20 +15,20 @@ weight: 5
 
 > Built on operations research, supply chain management, manufacturing systems, and human factors—and expanded with machine learning, simulation, and intelligent automation—students will lead changes in factories, warehouses, logistics networks, and service sectors like healthcare, finance, e-commerce, travel, and public services. From real-time scheduling and predictive inventory to human-in-the-loop decision systems, artificial intelligence becomes the primary toolkit.
 
-## 🔍 Program Overview
+##  Program Overview
 
 This track is part of the **AI-Integrated Engineering Program (AIEP)** and offered only for **IUP (English Program)** under the Department of Industrial Engineering.
 
-- 🧑‍🏫 **Bachelor’s Program**: B.Eng. in Industrial Engineering
-- 🎓 **Master’s Program**: M.Eng. in AI-Integrated Engineering
-- 📅 **First intake**: Academic Year 2026
-- 👥 **Number of Students**: 20
-- ✅ **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
-- 🚫 Not offered in regular or special program (Thai Program)
+-  **Bachelor’s Program**: B.Eng. in Industrial Engineering
+-  **Master’s Program**: M.Eng. in AI-Integrated Engineering
+-  **First intake**: Academic Year 2026
+-  **Number of Students**: 20
+-  **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
+-  Not offered in regular or special program (Thai Program)
 
 ---
 
-## 🧠 Program Highlights
+##  Program Highlights
 
 - Co-teaching by faculty members from both the Department of Industrial Engineering and the Department of Computer Engineering
 - End-to-end integration of industrial engineering and artificial intelligence: operations research models enhanced by machine learning and reinforcement learning; simulation-based policy testing; predict-then-optimize decision-making workflows.
@@ -41,7 +41,7 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)** and offer
 
 ---
 
-## 📚 What You'll Learn
+##  What You'll Learn
 
 Students will build strong foundations in industrial engineering, including deterministic and stochastic operations research, production and inventory management, facility layout, queueing theory, ergonomics and safety. These core competencies provide the essential framework for understanding and optimizing complex systems and processes.
 
@@ -55,7 +55,7 @@ Additionally, students will specialize in service systems, covering service desi
 
 ---
 
-## 🧪 Sample Capstone and Research Topics
+##  Sample Capstone and Research Topics
 
 - Reinforcement-learning-driven job-shop or flow-shop scheduling with energy or due-date objectives.
 - Predictive maintenance from sensor and event logs with cost-of-failure optimization.
@@ -69,7 +69,7 @@ Additionally, students will specialize in service systems, covering service desi
 
 ---
 
-## 🤝 Industry & Research Partners
+##  Industry & Research Partners
 
 - Delta Electronics (smart factory collaboration)
 - Thai logistics, warehouse, and industrial automation firms (in development)
@@ -78,7 +78,7 @@ Additionally, students will specialize in service systems, covering service desi
 
 ---
 
-## 🔄 4+1 Pathway
+##  4+1 Pathway
 
 - Option to continue into AI-Integrated M.Eng. with aligned Capstone or thesis topic.
 - Emphasis on transitioning from deterministic models to learning-based control
@@ -86,7 +86,7 @@ Additionally, students will specialize in service systems, covering service desi
 
 ---
 
-## 🧭 Career Opportunities
+##  Career Opportunities
 
 - Smart-factory and automation engineer for production lines, robotics coordination, and real-time control
 - Operations research and optimization engineer for scheduling, planning, and network design
@@ -100,7 +100,7 @@ Additionally, students will specialize in service systems, covering service desi
 
 ---
 
-## 🌟 Competitive Advantages
+##  Competitive Advantages
 
 - Go beyond Excel and heuristics — learn to use cutting-edge AI to solve ops problems
 - End-to-end capability: from modelling and forecasting to optimization, deployment, and continuous monitoring
@@ -112,7 +112,7 @@ Additionally, students will specialize in service systems, covering service desi
 
 ---
 
-## 🎒 Enrichment Activities
+##  Enrichment Activities
 
 - Industry-based Capstone projects in smart manufacturing, logistics and service operations with real data
 - Undergraduate Research Opportunities with AI and optimization labs
@@ -124,7 +124,7 @@ Additionally, students will specialize in service systems, covering service desi
 
 ---
 
-## 🧩 AI-Related Core Courses (Elective in B.Eng.)
+##  AI-Related Core Courses (Elective in B.Eng.)
 
 - **Applied AI for Engineering** (01204162)
 - **Mathematical Foundations for AI Engineers** (0120426x)
@@ -132,7 +132,7 @@ Additionally, students will specialize in service systems, covering service desi
 
 ---
 
-## 🎓 Distinctive Graduate Outcomes
+##  Distinctive Graduate Outcomes
 
 Graduates of this track will:
 

@@ -16,7 +16,7 @@ Our graduate programs are tailored for engineers and professionals who want to d
 
 ---
 
-### 🧠 AI-Integrated Master's Degrees
+###  AI-Integrated Master's Degrees
 
 - **M.Eng. (AI Engineering)**  
   A cross-disciplinary program that equips engineers with deep AI capabilities for their respective fields.  
@@ -28,7 +28,7 @@ Our graduate programs are tailored for engineers and professionals who want to d
 
 ---
 
-### 🎓 Who Should Apply?
+###  Who Should Apply?
 
 - Bachelor's graduates in engineering or science-related fields
 - Professionals seeking to enhance their AI capabilities in technical roles
@@ -36,7 +36,7 @@ Our graduate programs are tailored for engineers and professionals who want to d
 
 ---
 
-### 📌 Why Study Here?
+###  Why Study Here?
 
 - Dual focus: **Strong in Engineering. Smarter with AI.**
 - Curriculum co-developed by domain experts and AI researchers
@@ -46,7 +46,7 @@ Our graduate programs are tailored for engineers and professionals who want to d
 
 ---
 
-### 🚀 Explore Our 4+1 Programs
+###  Explore Our 4+1 Programs
 
 Complete both Bachelor's and Master's degrees in just five years with our fast-track programs:
 [Go to 4+1 Overview ➜](/docs/4plus1/)

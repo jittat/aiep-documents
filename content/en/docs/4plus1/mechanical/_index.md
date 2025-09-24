@@ -20,20 +20,20 @@ weight: 7
 
 ---
 
-## 🔍 Program Overview
+##  Program Overview
 
 This track is part of the **AI-Integrated Engineering Program (AIEP)** and offered as a **special program** under the Department of Mechanical Engineering.
 
-- 🧑‍🏫 **Bachelor’s Program**: Bachelor of Engineering in Mechanical Engineering
-- 🎓 **Master’s Program**: Master of Engineering in AI-Integrated Engineering
-- 📅 **First intake**: Academic Year 2026
-- 👥 **Number of Students**: 10
-- ✅ **Admission Channels**: TCAS1 (Portfolio) IUP
-- 🚫 Not offered in the regular and special program
+-  **Bachelor’s Program**: Bachelor of Engineering in Mechanical Engineering
+-  **Master’s Program**: Master of Engineering in AI-Integrated Engineering
+-  **First intake**: Academic Year 2026
+-  **Number of Students**: 10
+-  **Admission Channels**: TCAS1 (Portfolio) IUP
+-  Not offered in the regular and special program
 
 ---
 
-## 🧠 Program Highlights
+##  Program Highlights
 
 - Combine mechanical systems modeling with AI-based prediction and control
 - Emphasize simulation, sensor integration, and mechatronic systems, for Industry 4.0 and cyber-physical applications
@@ -46,7 +46,7 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)** and offer
 
 ---
 
-## 📚 What You'll Learn
+##  What You'll Learn
 
 Students will master dynamics, thermofluids, and control systems with advanced simulation tools, developing a solid foundation in mechanical engineering principles enhanced by computational modeling. The program teaches applied AI for system identification, predictive control, and fault detection, enabling students to create intelligent mechanical systems that can monitor and optimize their own performance.
 
@@ -56,7 +56,7 @@ The program also focuses on energy systems with AI applications for HVAC, renewa
 
 ---
 
-## 🧪 Sample Capstone and Research Topics
+##  Sample Capstone and Research Topics
 
 - AI-enhanced control system for autonomous ground vehicle
 - Predictive maintenance for industrial machinery using vibration data
@@ -66,7 +66,7 @@ The program also focuses on energy systems with AI applications for HVAC, renewa
 
 ---
 
-## 🤝 Industry & Research Partners
+##  Industry & Research Partners
 
 - KU-Mech x Siemens-Daikin-Delta 
 - Misumi x KU-Mech Hardware Library
@@ -78,7 +78,7 @@ The program also focuses on energy systems with AI applications for HVAC, renewa
 
 ---
 
-## 🔄 4+1 Pathway
+##  4+1 Pathway
 
 - Final-year Capstone bridges into Master’s-level research in AI applications
 - Students transition into AI-Integrated M.Eng. with interdisciplinary support
@@ -86,7 +86,7 @@ The program also focuses on energy systems with AI applications for HVAC, renewa
 
 ---
 
-## 🧭 Career Opportunities
+##  Career Opportunities
 
 - Autonomous system engineer (robotics, vehicles, drones)
 - Smart energy and HVAC systems designer
@@ -96,7 +96,7 @@ The program also focuses on energy systems with AI applications for HVAC, renewa
 
 ---
 
-## 🌟 Competitive Advantages
+##  Competitive Advantages
 
 - Master mechanical and AI integration for real-world engineering systems
 - Gain edge in robotics, automation, and intelligent control careers
@@ -105,7 +105,7 @@ The program also focuses on energy systems with AI applications for HVAC, renewa
 
 ---
 
-## 🎒 Enrichment Activities
+##  Enrichment Activities
 
 - Cross-disciplinary Capstone with AI + mechanics focus
 - Robotics and automation bootcamps
@@ -115,7 +115,7 @@ The program also focuses on energy systems with AI applications for HVAC, renewa
 
 ---
 
-## 🧩 AI-Related Core Courses (Elective in B.Eng.)
+##  AI-Related Core Courses (Elective in B.Eng.)
 
 - **Applied AI for Engineering** (01204162)
 - **Mathematical Foundations for AI Engineers** (0120426x)
@@ -123,7 +123,7 @@ The program also focuses on energy systems with AI applications for HVAC, renewa
 
 ---
 
-## 🎓 Distinctive Graduate Outcomes
+##  Distinctive Graduate Outcomes
 
 Graduates of this track will:
 

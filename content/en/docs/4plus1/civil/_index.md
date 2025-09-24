@@ -15,7 +15,7 @@ weight: 2
 
 ---
 
-## 🔍 What is AI x Civil Engineering?
+##  What is AI x Civil Engineering?
 Modern civil engineers must design for complexity, uncertainty, and urban dynamics. This program equips students to:
 
 - Apply AI to Building Information Modeling (BIM) for Construction Management  
@@ -27,17 +27,17 @@ Modern civil engineers must design for complexity, uncertainty, and urban dynami
 
 ---
 
-## 🎓 Program Overview
-- 🏫 **Bachelor’s Program**: Bachelor of Engineering in Civil Engineering and Bachelor of Engineering in Survey Engineering and Geographic Information  
-- 🎓 **Master’s Program**: Master of Engineering (AI-Integrated Engineering)  
-- 📅 **First intake**: Academic Year 2027  
-- 👥 **Number of Students**: 10 (Civil Engineering) + 10 (Survey Engineering and Geographic Information)  
-- ✅ **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)  
-- 🚫 **Not available** in regular or IUP tracks  
+##  Program Overview
+-  **Bachelor’s Program**: Bachelor of Engineering in Civil Engineering and Bachelor of Engineering in Survey Engineering and Geographic Information  
+-  **Master’s Program**: Master of Engineering (AI-Integrated Engineering)  
+-  **First intake**: Academic Year 2027  
+-  **Number of Students**: 10 (Civil Engineering) + 10 (Survey Engineering and Geographic Information)  
+-  **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)  
+-  **Not available** in regular or IUP tracks  
 
 ---
 
-## 🧠 Program Highlights
+##  Program Highlights
 - Real-world integration of AI and civil works for smart and resilient infrastructure  
 - Collaborative courses with Computer Engineering and access to smart research labs  
 - Capstone projects in partnership with government and industry agencies  
@@ -46,7 +46,7 @@ Modern civil engineers must design for complexity, uncertainty, and urban dynami
 
 ---
 
-## 📚 What You'll Learn
+##  What You'll Learn
 
 Students will master structural engineering enhanced with AI for predictive maintenance, learning to monitor and analyze infrastructure health using advanced computational methods. The program integrates traffic and transportation engineering with AI for traffic optimization, enabling students to design intelligent transportation systems that adapt to real-time conditions.
 
@@ -56,7 +56,7 @@ The program also encompasses urban planning with AI-informed behavioral modeling
 
 ---
 
-## 🧪 Sample Capstone and Research Topics
+##  Sample Capstone and Research Topics
 - AI-driven predicting bridge fatigue and concrete crack  
 - Structural Health Monitoring (SHM) by AI and Virtual Reality (VR)  
 - Skeleton-based AI for Construction Machine Monitoring  
@@ -68,7 +68,7 @@ The program also encompasses urban planning with AI-informed behavioral modeling
 
 ---
 
-## 🤝 Industry & Research Partners
+##  Industry & Research Partners
 - Smart City Innovation Labs  
 - Government agencies and private sector  
 - AI research groups at Kasetsart University  
@@ -76,14 +76,14 @@ The program also encompasses urban planning with AI-informed behavioral modeling
 
 ---
 
-## 🔄 4+1 Pathway
+##  4+1 Pathway
 - Capstone in year 4 aligns with Year 5 master's research  
 - Students must pass academic and project-readiness criteria  
 - Graduates earn both **B.Eng.** and **M.Eng.** in 5 years  
 
 ---
 
-## 🧭 Career Opportunities
+##  Career Opportunities
 | Field                  | AI Application Area |
 |------------------------|----------------------|
 | Structural Engineering | Predictive maintenance, fault detection |
@@ -94,7 +94,7 @@ The program also encompasses urban planning with AI-informed behavioral modeling
 
 ---
 
-## 🌟 What Makes This Program Unique?
+##  What Makes This Program Unique?
 - Pioneering curriculum linking civil systems with AI and urban data  
 - Access to smart infrastructure projects and environmental datasets  
 - Cross-disciplinary collaboration and mentorship  
@@ -102,7 +102,7 @@ The program also encompasses urban planning with AI-informed behavioral modeling
 
 ---
 
-## 🎒 Enrichment Activities
+##  Enrichment Activities
 - Urban AI bootcamps and smart city workshops  
 - Joint projects with governments agencies and industry partners  
 - Research assistantships on digital twin or SHM platforms  
@@ -111,7 +111,7 @@ The program also encompasses urban planning with AI-informed behavioral modeling
 
 ---
 
-## 🧩 AI-Related Core Courses (Elective in B.Eng.)
+##  AI-Related Core Courses (Elective in B.Eng.)
 - Applied AI for Engineering (01204162)  
 - Mathematical Foundations for AI Engineers (0120426x)  
 - Programming Concepts for Data Processing and Analysis (0120426x)  
@@ -119,7 +119,7 @@ The program also encompasses urban planning with AI-informed behavioral modeling
 
 ---
 
-## 🎓 Distinctive Graduate Outcomes
+##  Distinctive Graduate Outcomes
 Graduates of this program will:  
 
 - Design smarter infrastructure using real-time data and AI  

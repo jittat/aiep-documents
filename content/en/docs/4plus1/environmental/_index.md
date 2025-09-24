@@ -17,21 +17,21 @@ Fast-Track 4+1 Program offers students the opportunity to complete a bachelor’
 
 ---
 
-## 🔍 Program Overview
+##  Program Overview
 
 This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is offered as a **special program** under the Department of Environmental Engineering.
 
-- 🧑‍🏫 **Bachelor’s Program**: Bachelor of Engineering (Environmental Engineering)
-- 🎓 **Master’s Program**: Master of Engineering (AI-Integrated Engineering)
-- 📅 **First intake**: Academic Year 2026
-- 👥 **Number of Students**: 10
-- 🧑‍🏫 **Eligible Group**: International Undergraduate Program (IUP)
-- ✅ **Admission Channels**: TCAS3 (Admission)
+-  **Bachelor’s Program**: Bachelor of Engineering (Environmental Engineering)
+-  **Master’s Program**: Master of Engineering (AI-Integrated Engineering)
+-  **First intake**: Academic Year 2026
+-  **Number of Students**: 10
+-  **Eligible Group**: International Undergraduate Program (IUP)
+-  **Admission Channels**: TCAS3 (Admission)
 
 
 ---
 
-## 🧠 Program Highlights
+##  Program Highlights
 
 **Fast-Track 4+1 Pathway**
 
@@ -51,7 +51,7 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is of
 
 ---
 
-## 🧪 Sample Capstone and Research Topics
+##  Sample Capstone and Research Topics
 
 - Real-time environmental monitoring and alert systems
 - Intelligent pollution treatment systems
@@ -63,7 +63,7 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is of
 
 ---
 
-## 🤝 Industry & Research Partners
+##  Industry & Research Partners
 
 - Pollution Control Department
 - Department of Industrial Works
@@ -73,7 +73,7 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is of
 
 ---
 
-## 🔄 4+1 Pathway
+##  4+1 Pathway
 
 - Designed for seamless transition into AI-Integrated Engineering Master's program with Fast-track pathway
 - Year 4 Capstone aligns with Year 5 Master's research
@@ -81,7 +81,7 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is of
 
 ---
 
-## 👷‍♂️🌎 Career Opportunities
+##  Career Opportunities
 
 Graduates of this program will be prepared for diverse and forward-looking careers, such as:
 - Urban Environmental Planner with expertise in AI + GIS
@@ -94,7 +94,7 @@ Graduates of this program will be prepared for diverse and forward-looking caree
 
 ---
 
-## 🌟 Competitive Advantages
+##  Competitive Advantages
 
 - Real-time problem solving using sensors, satellite data, and digital twins
 - Multidisciplinary learning with hands-on AI applications
@@ -102,7 +102,7 @@ Graduates of this program will be prepared for diverse and forward-looking caree
 
 ---
 
-## 🎒 Enrichment Activities
+##  Enrichment Activities
 
 - Summer bootcamps on AI for Sustainable Development Goals (SDGs).
 - Joint hackathons and innovation challenges with industry partners.
@@ -112,7 +112,7 @@ Graduates of this program will be prepared for diverse and forward-looking caree
 
 ---
 
-## 🧩 AI-Related Core Courses (Elective in B.Eng.)
+##  AI-Related Core Courses (Elective in B.Eng.)
 
 - **Applied AI for Engineering** (01204162)
 - **Mathematical Foundations for AI Engineers** (0120426x)
@@ -120,7 +120,7 @@ Graduates of this program will be prepared for diverse and forward-looking caree
 
 ---
 
-## 🎓 Distinctive Graduate Outcomes
+##  Distinctive Graduate Outcomes
 
 Graduates of the AI-Integrated Environmental Engineering track will be able to:
 

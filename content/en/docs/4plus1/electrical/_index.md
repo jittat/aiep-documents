@@ -34,7 +34,7 @@ Graduates will be future-ready engineers who understand both the physics of real
 
 ---
 
-## ⚡ Key Focus Areas in AI x Electrical Engineering
+##  Key Focus Areas in AI x Electrical Engineering
 
 ### 1. Smart Grid and Energy Systems
 - Forecasting electricity demand (hourly, daily, weekly)
@@ -67,17 +67,17 @@ Graduates will be future-ready engineers who understand both the physics of real
 
 ---
 
-## 🎓 Program Overview
+##  Program Overview
 
-- 🏫 **Bachelor’s Program**: Bachelor of Engineering (Electrical Engineering)
-- 🎓 **Master’s Program**: Master of Engineering (AI-Integrated Engineering)
-- 📅 **First intake**: Academic Year 2027
-- 👥 **Number of Students**: 30
-- ✅ **Admission Channels**: TCAS1-3 IUP only
+-  **Bachelor’s Program**: Bachelor of Engineering (Electrical Engineering)
+-  **Master’s Program**: Master of Engineering (AI-Integrated Engineering)
+-  **First intake**: Academic Year 2027
+-  **Number of Students**: 30
+-  **Admission Channels**: TCAS1-3 IUP only
 
 ---
 
-## 🧠 What You'll Learn
+##  What You'll Learn
 
 Students will learn the design and development of smart power grids with energy forecasting capabilities, integrating renewable energy sources and optimizing electricity distribution through intelligent demand prediction. The program covers AI applications in signal processing, medical systems, and multimedia applications, enabling students to develop sophisticated algorithms for various electrical engineering domains.
 
@@ -87,7 +87,7 @@ Throughout the program, students will cultivate essential skills in analysis, pr
 
 ---
 
-## 🧪 Sample Capstone and Research Topics
+##  Sample Capstone and Research Topics
 
 - AI-based smart grid management system
 - Predictive maintenance for smart electrical devices using AI
@@ -99,7 +99,7 @@ Throughout the program, students will cultivate essential skills in analysis, pr
 
 ---
 
-## 🤝 Industry & Research Partners
+##  Industry & Research Partners
 
 - EGAT, MEA, and PEA
 - AIS, THAICOM, GISTDA
@@ -110,7 +110,7 @@ Throughout the program, students will cultivate essential skills in analysis, pr
 
 ---
 
-## 🔄 4+1 Pathway
+##  4+1 Pathway
 
 - Capstone in year 4 aligns with Year 5 master's research
 - Students must meet academic and readiness criteria
@@ -118,7 +118,7 @@ Throughout the program, students will cultivate essential skills in analysis, pr
 
 ---
 
-## 🧭 Career Opportunities
+##  Career Opportunities
 
 - Smart Grid / Smart Energy Engineer: Plan and develop smart power grids using AI for efficient energy management, demand forecasting, and system stability enhancement.
 - AI Robotics Engineer: Design and develop robots capable of perceiving, learning, and interacting with their environment, such as factory inspection robots, rescue robots, or service robots in industrial applications.
@@ -127,7 +127,7 @@ Throughout the program, students will cultivate essential skills in analysis, pr
 
 ---
 
-## 🌟 Graduate Profile
+##  Graduate Profile
 
 AI-Integrated Electrical Engineering graduates will be able to:
 
@@ -140,7 +140,7 @@ AI-Integrated Electrical Engineering graduates will be able to:
 
 ---
 
-## 🎒 Enrichment Activities
+##  Enrichment Activities
 
 - Internships with leading companies specializing in electrical technology, robotics, or AI
 - Capstone Projects in collaboration with top-tier industries
@@ -149,7 +149,7 @@ AI-Integrated Electrical Engineering graduates will be able to:
 
 ---
 
-## 🧩 AI-Related Core Courses (Elective in B.Eng.)
+##  AI-Related Core Courses (Elective in B.Eng.)
 
 - **Applied AI for Engineering** (01204162)
 - **Mathematical Foundations for AI Engineers** (0120426x)

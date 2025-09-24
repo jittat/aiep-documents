@@ -18,20 +18,20 @@ weight: 8
 
 ---
 
-## 🔍 Program Overview
+##  Program Overview
 
 This track is part of the **AI-Integrated Engineering Program (AIEP)** and is offered as a **special program** under the Department of Water Resources Engineering.
 
-- 🧑‍🏫 **Bachelor’s Program**: B.Eng. in Water Resources Engineering
-- 🎓 **Master’s Program**: M.Eng. in AI-Integrated Engineering
-- 📅 **First intake**: Academic Year 2027
-- 👥 **Number of Students**: 20
-- ✅ **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
-- 🚫 Not available in regular or IUP tracks
+-  **Bachelor’s Program**: B.Eng. in Water Resources Engineering
+-  **Master’s Program**: M.Eng. in AI-Integrated Engineering
+-  **First intake**: Academic Year 2027
+-  **Number of Students**: 20
+-  **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
+-  Not available in regular or IUP tracks
 
 ---
 
-## 🧠 Program Highlights
+##  Program Highlights
 
 - First and Only in Thailand: The country’s pioneering program integrating Water Resources Engineering with Artificial Intelligence (AI) and Data Science.
 - Learn from Leading Experts: Taught by top faculty and researchers, with guest lecturers from tech companies and national water agencies.
@@ -40,7 +40,7 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)** and is of
 
 ---
 
-## 📚 What You'll Learn
+##  What You'll Learn
 
 Students will develop expertise in core water engineering fundamentals, including hydrology, hydraulics, irrigation, and drainage design, providing the essential foundation for understanding water systems and infrastructure. The program integrates comprehensive data science and AI education, covering Python programming, databases, machine learning, deep learning, and predictive modeling specifically tailored for water resources applications.
 
@@ -50,7 +50,7 @@ The program also emphasizes policy and sustainability aspects, covering water go
 
 ---
 
-## 🧪 Sample Capstone and Research Topics
+##  Sample Capstone and Research Topics
 
 - Flood forecasting using satellite/radar + machine learning
 - Real-time community-based flood early-warning platforms
@@ -59,7 +59,7 @@ The program also emphasizes policy and sustainability aspects, covering water go
 
 ---
 
-## 🤝 Industry & Research Partners
+##  Industry & Research Partners
 
 - Tech Companies: Collaborations with leaders in AI, cloud computing, and data analytics.
 - Government Agencies: Partnerships with the Royal Irrigation Department, Metropolitan/Provincial Waterworks, and National Water Resources Office.
@@ -68,7 +68,7 @@ The program also emphasizes policy and sustainability aspects, covering water go
 
 ---
 
-## 🔄 4+1 Pathway
+##  4+1 Pathway
 
 - AI-integrated capstone project in the final undergraduate year.
 - Direct continuation into M.Eng. (Year 5) for deeper specialization.
@@ -76,7 +76,7 @@ The program also emphasizes policy and sustainability aspects, covering water go
 
 ---
 
-## 🧭 Career Opportunities
+##  Career Opportunities
 
 - Engineers specializing in AI-powered water management.
 - Developers of water systems and Digital Twin models.
@@ -87,7 +87,7 @@ The program also emphasizes policy and sustainability aspects, covering water go
 
 ---
 
-## 🌟 Competitive Advantages
+##  Competitive Advantages
 
 - Future-Proof Skills: Dual expertise in water engineering and AI, highly sought after worldwide.
 - Real-World Readiness: Designed to solve real problems—not just textbook knowledge.
@@ -97,7 +97,7 @@ The program also emphasizes policy and sustainability aspects, covering water go
 
 ---
 
-## 🎒 Enrichment Activities
+##  Enrichment Activities
 
 - Project-based learning with real-time water and environmental data.
 - Training camps on rainfall–runoff simulation with AI.
@@ -107,7 +107,7 @@ The program also emphasizes policy and sustainability aspects, covering water go
 
 ---
 
-## 🧩 AI-Related Core Courses (Elective in B.Eng.)
+##  AI-Related Core Courses (Elective in B.Eng.)
 
 - **Applied AI for Engineering** (01204162)
 - **Mathematical Foundations for AI Engineers** (0120426x)
@@ -115,7 +115,7 @@ The program also emphasizes policy and sustainability aspects, covering water go
 
 ---
 
-## 🎓 Distinctive Graduate Outcomes
+##  Distinctive Graduate Outcomes
 
 Graduates of this program will be able to:
 

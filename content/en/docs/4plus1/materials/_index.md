@@ -20,20 +20,20 @@ weight: 6
 
 ---
 
-## 🔍 Program Overview
+##  Program Overview
 
 This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is offered as a **special program** under the Department of Materials Engineering.
 
-- 🧑‍🏫 **Bachelor’s Program**: Bachelor of Engineering (Materials Engineering)
-- 🎓 **Master’s Program**: Master of Engineering (AI-Integrated Engineering)
-- 📅 **First intake**: Academic Year 2026
-- 👥 **Number of Students**: 20
-- ✅ **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
-- 🚫 Not available in regular or IUP tracks
+-  **Bachelor’s Program**: Bachelor of Engineering (Materials Engineering)
+-  **Master’s Program**: Master of Engineering (AI-Integrated Engineering)
+-  **First intake**: Academic Year 2026
+-  **Number of Students**: 20
+-  **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
+-  Not available in regular or IUP tracks
 
 ---
 
-## 🧠 Program Highlights
+##  Program Highlights
 
 - Integration of **materials science, computer science, and AI** for innovation in the digital transformation era
 - Strong foundation in engineering and scientific principles with hands-on research at both undergraduate and graduate levels
@@ -44,7 +44,7 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is of
 
 ---
 
-## 📚 What You'll Learn
+##  What You'll Learn
 
 Students will gain comprehensive knowledge in core materials science, including the fundamentals of metals, polymers, ceramics, and composites. The program covers diverse applications across electronics, semiconductors, biomaterials, and energy sectors, providing a broad foundation in materials engineering.
 
@@ -54,7 +54,7 @@ Throughout the program, students will develop skills in cross-functional collabo
 
 ---
 
-## 🧪 Sample Capstone and Research Topics
+##  Sample Capstone and Research Topics
 
 - Materials selection and design through simulation + ML
 - Predictive maintenance for production plants
@@ -64,7 +64,7 @@ Throughout the program, students will develop skills in cross-functional collabo
 
 ---
 
-## 🤝 Industry & Research Partners
+##  Industry & Research Partners
 
 - **NAIST (Japan)**
 - PTT Research & Innovation
@@ -76,7 +76,7 @@ Throughout the program, students will develop skills in cross-functional collabo
 
 ---
 
-## 🔄 4+1 Pathway
+##  4+1 Pathway
 
 - Designed for seamless transition into AI-Integrated Engineering Master's program
 - Year 4 Capstone aligns with Year 5 Master's research
@@ -84,7 +84,7 @@ Throughout the program, students will develop skills in cross-functional collabo
 
 ---
 
-## 🧭 Career Opportunities
+##  Career Opportunities
 
 - Materials informatics engineers in semiconductors, electronics, advanced materials
 - AI-enhanced reliability engineers in petrochemical & petroleum industries
@@ -94,7 +94,7 @@ Throughout the program, students will develop skills in cross-functional collabo
 
 ---
 
-## 🌟 Competitive Advantages
+##  Competitive Advantages
 
 - Dual-degree 4+1 track: Professional B.Eng. + AI-integrated M.Eng.
 - Deep interdisciplinary integration across departments
@@ -103,7 +103,7 @@ Throughout the program, students will develop skills in cross-functional collabo
 
 ---
 
-## 🎒 Enrichment Activities
+##  Enrichment Activities
 
 - Capstone projects co-designed with leading industries
 - Undergraduate Research Opportunities (UROP) from early years
@@ -113,7 +113,7 @@ Throughout the program, students will develop skills in cross-functional collabo
 
 ---
 
-## 🧩 AI-Related Core Courses (Elective in B.Eng.)
+##  AI-Related Core Courses (Elective in B.Eng.)
 
 - **Applied AI for Engineering** (01204162)
 - **Mathematical Foundations for AI Engineers** (0120426x)
@@ -123,7 +123,7 @@ Throughout the program, students will develop skills in cross-functional collabo
 
 ---
 
-## 🎓 Distinctive Graduate Outcomes
+##  Distinctive Graduate Outcomes
 
 Graduates of the AI-Integrated Engineering Program will be able to:
 
