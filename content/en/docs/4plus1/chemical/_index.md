@@ -1,5 +1,5 @@
 ---
-title: Chemical Engineering integrated with AI, Business, and Sustainability (International Program) (IChEˣ)
+title: Chemical Engineering Integrated with AI, Business, and Sustainability (International Program) (IChEˣ)
 description: Preparing next-gen chemical engineers for data-driven innovation in chemical, food, pharmaceutical, and energy industries.
 program: AIEP
 track: Chemical Engineering
@@ -7,11 +7,11 @@ tagline: From Process to Intelligence
 weight: 1
 ---
 
-<img src="../../../img/banners/chemical-hero.png"
+<img src="/img/banners/chemical-hero-new.png"
      alt="AI-Integrated Chemical Engineering"
      style="max-width: 100%; height: auto; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 
-> **Chemical Engineering integrated with AI, Business, and Sustainability: IChEˣ** is a future-oriented program jointly developed by the Department of Chemical Engineering and the Department of Computer Engineering, Kasetsart University.
+> **Chemical Engineering Integrated with AI, Business, and Sustainability: IChEˣ** is a future-oriented program jointly developed by the Department of Chemical Engineering and the Department of Computer Engineering, Kasetsart University.
 
 > The IChEˣ program aims to develop a “new generation of chemical engineers” who are not only experts in process engineering but also excel in digital skills, artificial intelligence (AI), business management, and sustainable design. Students will gain up-to-date interdisciplinary knowledge, ready to advance into real-world work in Smart Industry, Tech Startups, or develop their own innovations. The program responds to the rapidly changing industrial world with young professionals who are “skilled, critical thinkers, adaptable, and capable of applying technology in practice.” The curriculum offers an extension through the 4+1 program leading to a Master of Engineering (AI-Integrated Engineering) to develop deep AI expertise and understand the full integration of AI with IT and automation systems in industry.
 

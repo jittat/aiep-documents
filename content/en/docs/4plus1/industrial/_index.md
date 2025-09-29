@@ -7,7 +7,7 @@ tagline: Optimize Smarter. Design Better. Powered by AI.
 weight: 5
 ---
 
-<img src="/img/banners/industrial-hero.png"
+<img src="/img/banners/industrial-hero-new.png"
      alt="AI-Integrated Industrial Engineering"
      style="max-width: 100%; height: auto; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 
