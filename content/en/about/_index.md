@@ -4,7 +4,7 @@ linkTitle: About
 menu: { main: { weight: 10 } }
 ---
 
-{{% blocks/cover title="Behind the AIEP" image_anchor="top" height="auto" %}}
+{{% blocks/cover title="Behind the AIEP" image_anchor="auto" height="auto" %}}
 
 The origin story, design, and vision of the AI-Integrated Engineering Program at Kasetsart University.
 {.mt-5}

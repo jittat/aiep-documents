@@ -54,11 +54,14 @@ weight: 2
 
 - AI-Integrated Chemical Engineering  
 - AI-Integrated Civil Engineering  
-- AI-Integrated Electrical Engineering  
 - AI-Integrated Environmental Engineering  
 - AI-Integrated Industrial Engineering  
 - AI-Integrated Materials Engineering  
 - AI-Integrated Mechanical Engineering  
+
+##  Offered Tracks (2026 Onward)
+
+- AI-Integrated Electrical Engineering  
 - AI-Integrated Water Resources Engineering  
 
 ➡️ Explore each track under **Bachelor + Master (4+1) Programs**.
