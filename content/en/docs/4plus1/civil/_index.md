@@ -4,7 +4,7 @@ description: "Civil Engineering for the AI age—designing intelligent, sustaina
 program: "AIEP"
 track: "Civil Engineering"
 tagline: "From Structures to Smart Cities."
-weight: 2
+weight: 1
 ---
 
 <img src="/img/banners/civil-hero-new.png"

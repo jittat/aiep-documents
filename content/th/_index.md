@@ -3,10 +3,7 @@ title: KU-AIEP
 ---
 
 {{< blocks/cover title="AI-Integrated Engineering Program (AIEP)" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<p class="lead mt-5">บูรณาการปริญญาตรีวิศวกรรมศาสตร์ กับ ปริญญาโท AI — อย่างไร้รอยต่อ</p>
+<p class="lead mt-5 mb-5">บูรณาการปริญญาตรีวิศวกรรมศาสตร์ กับ ปริญญาโท AI — อย่างไร้รอยต่อ</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 

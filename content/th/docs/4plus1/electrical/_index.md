@@ -1,10 +1,10 @@
 ---
-title: AI-Integrated Electrical Engineering
-description: ยกระดับระบบไฟฟ้าสู่ยุคใหม่ด้วยพลังของพลังงานอัจฉริยะ AI ฝังตัว การควบคุมอัตโนมัติ และการสื่อสารอัจฉริยะ
+title: วิศวกรรมไฟฟ้าบูรณาการปัญญาประดิษฐ์
+description: ยกระดับระบบไฟฟ้าสู่ยุคใหม่ด้วยพลังของพลังงานอัจฉริยะ AI ฝังตัว การควบคุมอัตโนมัติ และการสื่อสารอัจฉริยะ<br>**เริ่มรับนิสิตปีการศึกษา 2570**
 program: AIEP
 track: Electrical Engineering
 tagline: พลังไฟฟ้าอัจฉริยะเพื่อโลกที่ชาญฉลาด (Electric Intelligence for a Smarter World.)
-weight: 3
+weight: 103
 ---
 
 <img src="/img/banners/electrical-hero-new.png"
@@ -12,7 +12,7 @@ weight: 3
      style="max-width: 100%; height: auto; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 
 
-**AI-Integrated Electrical Engineering: เสริมพลังวิศวกรไฟฟ้า ขับเคลื่อนสู่ระบบอัจฉริยะ **
+**วิศวกรรมไฟฟ้าบูรณาการปัญญาประดิษฐ์ (AI-Integrated Electrical Engineering): เสริมพลังวิศวกรไฟฟ้า ขับเคลื่อนสู่ระบบอัจฉริยะ **
 
 > พื้นฐาน AI อาจไม่ใช่จุดเริ่มต้นของนิสิตวิศวกรรมไฟฟ้าทุกคน — แต่สามารถเป็นสิ่งที่ทุกคนสร้างและต่อยอดได้
 

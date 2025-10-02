@@ -7,6 +7,7 @@ menu:
 
 description: "Program announcements, academic events, and media highlights from AIEP."
 weight: 30
+draft: true
 
 cascade:
   - type: "blog"

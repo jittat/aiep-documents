@@ -18,13 +18,13 @@ Our graduate programs are tailored for engineers and professionals who want to d
 
 ###  AI-Integrated Master's Degrees
 
-- **M.Eng. (AI Engineering)**  
+- **M.Eng. (AI-Integrated Engineering)**  
   A cross-disciplinary program that equips engineers with deep AI capabilities for their respective fields.  
-  [Explore program ➜](/master/ai/)
+  [Explore program ➜](/docs/master/ai-integrated/)
 
 - **M.Eng. (Computer Engineering)**  
-  Advanced studies in computer systems, AI, software, and digital technologies. Open to students with strong backgrounds in Computer or Software Engineering.  
-  [Explore program ➜](/master/computer/)
+  Advanced studies in computer systems, AI, software, and digital technologies. Open to students with strong backgrounds in Computer Engineering, Software Engineering or Computer Science.  
+  [Explore program ➜](/docs/master/computer/)
 
 ---
 

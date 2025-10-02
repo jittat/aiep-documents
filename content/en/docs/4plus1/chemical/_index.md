@@ -1,10 +1,10 @@
 ---
 title: Chemical Engineering Integrated with AI, Business, and Sustainability (International Program) (IChEˣ)
-description: Preparing next-gen chemical engineers for data-driven innovation in chemical, food, pharmaceutical, and energy industries.
+description: Preparing next-gen chemical engineers for data-driven innovation in chemical, food, pharmaceutical, and energy industries. <br>**Accepting new enrollments next year (academic year 2027).**
 program: AIEP
 track: Chemical Engineering
 tagline: From Process to Intelligence
-weight: 1
+weight: 101
 ---
 
 <img src="/img/banners/chemical-hero-new.png"

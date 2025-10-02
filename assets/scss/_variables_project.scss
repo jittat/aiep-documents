@@ -9,3 +9,12 @@ $primary: #67001c;
 .taxonomy-terms-cloud {
   display: none;
 }
+
+.td-heading-self-link {
+  display: none;
+}
+
+.td-sidebar-nav__section-title .td-sidebar-nav__section-title .without-child {
+  margin-bottom: 5px;
+  border-bottom: 1px solid #ddd;
+}

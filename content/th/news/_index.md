@@ -7,6 +7,7 @@ menu:
 
 description: "ประกาศจากโครงการ กิจกรรมทางวิชาการ และสื่อเด่นจาก AIEP"
 weight: 30
+draft: true
 
 cascade:
   - type: "blog"

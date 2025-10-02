@@ -7,6 +7,8 @@ menu:
   main: 
     weight: 40
 
+draft: true
+
 description: "New curriculum releases, program launches, and platform updates."
 cascade:
   - type: "blog"

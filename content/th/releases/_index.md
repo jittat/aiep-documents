@@ -8,6 +8,8 @@ menu:
   main: 
     weight: 40
 
+draft: true
+
 cascade:
   - type: "blog"
 ---

@@ -1,10 +1,10 @@
 ---
 title: AI-Integrated Water Resources Engineering
-description: Transforming Water Resources Engineering with AI and Data for Sustainable Water Security.
+description: Transforming Water Resources Engineering with AI and Data for Sustainable Water Security.<br>**Accepting new enrollments next year (academic year 2027).**
 program: AIEP
 track: Water Resources Engineering
 tagline: Smart Water Management with Good Governance. Climate-Resilient Smart Water Management. Sustainable Water Management.
-weight: 8
+weight: 103
 ---
 
 <img src="/img/banners/water-hero-new.png"

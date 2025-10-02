@@ -76,14 +76,17 @@ Admission is **selective and competitive**, ensuring that only committed student
 
 Explore each track to see how AI can amplify your engineering journey:
 
-- [AI-Integrated Materials Engineering](/docs/4plus1/materials/)
-- [AI-Integrated Mechanical Engineering](/docs/4plus1/mechanical/)
-- [AI-Integrated Civil Engineering](/docs/4plus1/civil/)
-- [AI-Integrated Chemical Engineering](/docs/4plus1/chemical/)
-- [AI-Integrated Electrical Engineering](/docs/4plus1/electrical/)
-- [AI-Integrated Environmental Engineering](/docs/4plus1/environmental/)
-- [AI-Integrated Water Resources Engineering](/docs/4plus1/water-resources/)
-- [AI-Integrated Industrial Engineering](/docs/4plus1/industrial/)
+- Curriculum accepting students in academic year 2026:
+  - [AI-Integrated Civil Engineering](/docs/4plus1/civil/)
+  - [AI-Integrated Materials Engineering](/docs/4plus1/materials/)
+  - [AI-Integrated Mechanical Engineering](/docs/4plus1/mechanical/)
+  - [AI-Integrated Environmental Engineering](/docs/4plus1/environmental/)
+  - [AI-Integrated Industrial Engineering](/docs/4plus1/industrial/)
+
+- Curriculum accepting students in academic year 2027:
+  - [AI-Integrated Chemical Engineering](/docs/4plus1/chemical/)
+  - [AI-Integrated Electrical Engineering](/docs/4plus1/electrical/)
+  - [AI-Integrated Water Resources Engineering](/docs/4plus1/water-resources/)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: AI-Integrated Mechanical Engineering
+title: วิศวกรรมเครื่องกลบูรณาการปัญญาประดิษฐ์
 description: อนาคตของระบบอัตโนมัติและหุ่นยนต์อยู่ตรงจุดที่ระบบกลไกบรรจบกับอัลกอริธึมอัจฉริยะ
 program: AIEP
 track: วิศวกรรมเครื่องกล

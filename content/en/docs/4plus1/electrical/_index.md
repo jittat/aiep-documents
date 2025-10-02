@@ -1,10 +1,10 @@
 ---
 title: AI-Integrated Electrical Engineering
-description: Redefining electrical systems with smart energy, embedded AI, autonomous control, and intelligent communication.
+description: Redefining electrical systems with smart energy, embedded AI, autonomous control, and intelligent communication.<br>**Accepting new enrollments next year (academic year 2027).**
 program: AIEP
 track: Electrical Engineering
 tagline: Electric Intelligence for a Smarter World.
-weight: 3
+weight: 102
 ---
 
 <img src="/img/banners/electrical-hero-new.png"
