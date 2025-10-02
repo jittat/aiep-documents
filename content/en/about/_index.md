@@ -88,7 +88,7 @@ We are educators, researchers, and institutional builders — committed to build
 - **Assoc. Prof. Dr. Suphawut Malaikrisanachalee** — Head, Department of Civil Engineering  
 - **Assoc. Prof. Dr. Siriroj Sirisukprasert** — Head, Department of Electrical Engineering  
 - **Assoc. Prof. Dr. Wilasinee Yoochatchaval** — Head, Department of Environmental Engineering  
-- **Assoc. Prof. Dr. Pornthep Anussornnitisarn** — Head, Department of Industrial Engineering  
+- **Asst. Prof. Dr. Pornthep Anussornnitisarn** — Head, Department of Industrial Engineering  
 - **Assoc. Prof. Dr. Ratchatee Techapiesancharoenkij** — Head, Department of Materials Engineering  
 - **Assoc. Prof. Dr. Weerachai Chaiworapuek** — Head, Department of Mechanical Engineering  
 - **Assoc. Prof. Dr. Adichai Pornprommin** — Head, Department of Water Resources Engineering
@@ -99,11 +99,11 @@ We are educators, researchers, and institutional builders — committed to build
 
 ### 🧑‍🔬 Program Committee
 
-- **Assoc. Prof. Dr. Somchai Numprasertchai** — Committee of AI-Integrated Engineering  
-- **Assoc. Prof. Dr. Jittat Fakcharoenphol** — Program Chair of Computer Engineering  
-- **Asst. Prof. Dr. Thanawin Rakthamanon** — Assistant Dean for Academic Affairs  
+- **Assoc. Prof. Dr. Somchai Numprasertchai** — Committee of AI-Integrated Engineering
+- **Assoc. Prof. Dr. Jittat Fakcharoenphol** — Program Chair of Computer Engineering
+- **Asst. Prof. Dr. Thanawin Rakthanmanon** — Assistant Dean for Academic Affairs
 - **Asst. Prof. Dr. Hutchatai Chanlekha** — Program Chair of AI-Integrated Engineering & Assistant Dean for Academic Affairs  
-- **Dr. Tana Wattanawarun** — Committee
+- **Dr. Tana Wattanawaroon** — Committee
 
 
 {{% /blocks/section %}}
