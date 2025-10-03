@@ -11,9 +11,11 @@ weight: 1
      alt="AI-Integrated Civil Engineering"
      style="max-width: 100%; height: auto; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 
-> AI-Integrated Civil Engineering is a next-generation academic track co-developed by the Department of Civil Engineering and the Department of Computer Engineering at Kasetsart University.  
-> It prepares students to become civil engineers who don't just build structures — but design intelligent, sustainable, and human-centered systems for the cities of tomorrow.  
-> Students will gain hands-on experience in smart construction, geospatial analysis, structural monitoring, environmental prediction, and infrastructure design using real-world data and cutting-edge AI tools.
+AI-Integrated Civil Engineering is a next-generation academic track co-developed by the Department of Civil Engineering and the Department of Computer Engineering at Kasetsart University.
+
+It prepares students to become civil engineers who don't just build structures — but design intelligent, sustainable, and human-centered systems for the cities of tomorrow.  
+
+Students will gain hands-on experience in smart construction, geospatial analysis, structural monitoring, environmental prediction, and infrastructure design using real-world data and cutting-edge AI tools.
 
 ---
 
