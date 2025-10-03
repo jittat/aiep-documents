@@ -37,9 +37,11 @@ This pathway ensures that:
 
 | Year | Study Focus |
 |------|-------------|
-| 1–3  | Core undergraduate coursework in your home department |
-| 4    | Undergraduate capstone project with AI integration + AI core electives |
-| 5    | Master’s-level AI courses + thesis or industrial project |
+| 1–3  | Core undergraduate coursework in your home department + AI core electives |
+| 4    | Undergraduate capstone project with AI integration + Master's level AI courses |
+| 5    | Master’s-level AI courses + Thesis |
+
+The detailed study plan for each track will be *available soon*.  You can see the descriptions for the [AI core electives](/docs/ai-core-courses).  Also see the information of the [Master of Engineering in AI-Integrated Engineering](/docs/master/ai-integrated) program.
 
 ---
 

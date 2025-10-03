@@ -1,5 +1,5 @@
 ---
-title: "M.Eng. in Computer Engineering"
+title: "Master of Engineering in Computer Engineering"
 description: "Advance your expertise in computer systems, AI, and emerging technologies with our graduate program in Computer Engineering."
 program: AIEP
 track: Computer Engineering
