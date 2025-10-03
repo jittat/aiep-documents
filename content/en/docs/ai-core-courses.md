@@ -21,11 +21,11 @@ Fundamentals of AI and AI techniques. Basics of machine learning and neural netw
 
 Vectors and vector spaces. Matrices and matrix representations of linear systems. Linear transformations. Solution of linear systems. Eigensystems. Singular value decomposition.  Derivatives and optimization.  Partial derivatives.  Gradient descent.  Basic statistics.  Sampling distribution.  Confidence Intervals.  Hypothesis testing.  
 
-*This course in under development*
+*This course is under development*
 
 ### Programming Concepts for Data Processing and Analysis 
 
 Basic data structures.  Searching and sorting.  Recursion.  Algorithm complexity.  Basic concepts of database systems.  Data manipulation and searching.  Exploratory data analysis.  Data visualization.
 
-*This course in under development*
+*This course is under development*
 

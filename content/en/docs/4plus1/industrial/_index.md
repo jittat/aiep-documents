@@ -79,10 +79,12 @@ Additionally, students will specialize in service systems, covering service desi
 ---
 
 ##  4+1 Pathway
+- Students must meet academic requirements by their 3rd year by taking [AI foundational courses](/docs/ai-core-courses).
+- Students start enrolling Master's courses also in the 4th year. (See [information for the M.Eng in AI-Integrated Engineering](/docs/master/ai-integrated) program.)
+- 4th-year project linked to Master’s research in the 5th year.
+- Two degrees (B.Eng. + [M.Eng.](/docs/master/ai-integrated)) in 5 years for future professionals.
 
-- Option to continue into AI-Integrated M.Eng. with aligned Capstone or thesis topic.
-- Emphasis on transitioning from deterministic models to learning-based control
-- Requires satisfactory academic standing and project performance
+The detailed study plan will be *available soon*.  Read more about the [undergraduate AI core courses](/docs/ai-core-courses) and the [Master program](/docs/master/ai-integrated).
 
 ---
 
@@ -124,11 +126,17 @@ Additionally, students will specialize in service systems, covering service desi
 
 ---
 
-##  AI-Related Core Courses (Elective in B.Eng.)
+##  AI Foundation Courses (Undergraduate Level)
 
-- **Applied AI for Engineering** (01204162)
-- **Mathematical Foundations for AI Engineers** (0120426x)
-- **Programming Concepts for Data Processing and Analysis** (0120426x)
+Students will take the following courses during their first 3 years as undergradute students.
+
+- **Applied AI for Engineering** (01204162)  
+- **Mathematical Foundations for AI Engineers**  (*course under development*)
+- **Programming Concepts for Data Processing and Analysis** (*course under development*)
+
+See [course descriptions](/docs/ai-core-courses).
+
+Equivalent internal courses from Industrial Engineering may be submitted for equivalency review.
 
 ---
 

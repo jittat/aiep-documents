@@ -73,10 +73,12 @@ Students will gain hands-on practice in laboratories and workshops focused on sm
 ---
 
 ##  4+1 Pathway
+- Students must meet academic requirements by their 3rd year by taking [AI foundational courses](/docs/ai-core-courses).
+- Students start enrolling Master's courses also in the 4th year. (See [information for the M.Eng in AI-Integrated Engineering](/docs/master/ai-integrated) program.)
+- 4th-year project linked to Master’s research in the 5th year.
+- Two degrees (B.Eng. + [M.Eng.](/docs/master/ai-integrated)) in 5 years for future professionals.
 
-- Students must meet academic requirements by their 3rd year  
-- 4th-year project linked to Master’s research in the 5th year  
-- Two degrees (B.Eng. + M.Eng.) in 5 years for future professionals
+The detailed study plan will be *available soon*.  Read more about the [undergraduate AI core courses](/docs/ai-core-courses) and the [Master program](/docs/master/ai-integrated).
 
 ---
 
@@ -114,12 +116,15 @@ Students will gain hands-on practice in laboratories and workshops focused on sm
 
 ##  AI Foundation Courses (Undergraduate Level)
 
-- **Applied AI for Engineering** (01204162)  
-- **Mathematical Foundations for AI Engineers** (0120426x)  
-- **Programming Concepts for Data Processing and Analysis** (0120426x)  
+Students will take the following courses during their first 3 years as undergradute students.
 
-(Equivalent internal courses from Chemical Engineering may be submitted for equivalency review.) 
-- Currently, two new courses are being developed for the IChEˣ program: one focusing on applying AI to solve chemical engineering problems, and one on Process Simulation. There is also a plan to propose one programming-related course for equivalency.
+- **Applied AI for Engineering** (01204162)  
+- **Mathematical Foundations for AI Engineers**  (*course under development*)
+- **Programming Concepts for Data Processing and Analysis** (*course under development*)
+
+See [course descriptions](/docs/ai-core-courses).
+
+Equivalent internal courses from Chemical Engineering may be submitted for equivalency review.Currently, two new courses are being developed for the IChEˣ program: one focusing on applying AI to solve chemical engineering problems, and one on Process Simulation. There is also a plan to propose one programming-related course for equivalency.
 
 ---
 

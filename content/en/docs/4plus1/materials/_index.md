@@ -77,10 +77,12 @@ Throughout the program, students will develop skills in cross-functional collabo
 ---
 
 ##  4+1 Pathway
+- Students must meet academic requirements by their 3rd year by taking [AI foundational courses](/docs/ai-core-courses).
+- Students start enrolling Master's courses also in the 4th year. (See [information for the M.Eng in AI-Integrated Engineering](/docs/master/ai-integrated) program.)
+- 4th-year project linked to Master’s research in the 5th year.
+- Two degrees (B.Eng. + [M.Eng.](/docs/master/ai-integrated)) in 5 years for future professionals.
 
-- Designed for seamless transition into AI-Integrated Engineering Master's program
-- Year 4 Capstone aligns with Year 5 Master's research
-- Students must meet GPA and readiness criteria to continue
+The detailed study plan will be *available soon*.  Read more about the [undergraduate AI core courses](/docs/ai-core-courses) and the [Master program](/docs/master/ai-integrated).
 
 ---
 
@@ -113,13 +115,16 @@ Throughout the program, students will develop skills in cross-functional collabo
 
 ---
 
-##  AI-Related Core Courses (Elective in B.Eng.)
+##  AI Foundation Courses (Undergraduate Level)
+Students will take the following courses during their first 3 years as undergradute students.
 
-- **Applied AI for Engineering** (01204162)
-- **Mathematical Foundations for AI Engineers** (0120426x)
-- **Programming Concepts for Data Processing and Analysis** (0120426x)
+- **Applied AI for Engineering** (01204162)  
+- **Mathematical Foundations for AI Engineers**  (*course under development*)
+- **Programming Concepts for Data Processing and Analysis** (*course under development*)
 
-(Equivalent internal courses from Materials Engineering may be submitted for evaluation.)
+See [course descriptions](/docs/ai-core-courses).
+
+Equivalent internal courses from Materials Engineering may be submitted for equivalency review.
 
 ---
 
