@@ -23,7 +23,7 @@ We started with a question:
 
 {{% blocks/section %}}
 
-## 🌱 The Origin
+## The Origin
 
 Imagine building an autonomous vehicle in Thailand.
 
@@ -52,7 +52,7 @@ A win for students, for faculty, and for the nation.
 
 {{% blocks/section %}}
 
-## 🧠 Program Design
+## Program Design
 
 The initiative was led by the **Department of Computer Engineering**, driven by the belief that AI will soon be essential to every profession.
 
@@ -72,16 +72,16 @@ That became the core of AIEP:
 
 {{% blocks/section %}}
 
-## 👥 Program Committee
+## Program Committee
 
 Kasetsart Engineering is led by a collaborative team of scholars and innovators.  
 We are educators, researchers, and institutional builders — committed to building the AI-empowered future, together.
 
-### 🧑‍🏫 Dean
+### Dean
 
 - **Prof. Dr. Wanchai Yodsudjai** — Dean, Faculty of Engineering
 
-### 🧠 Special Advisors
+### Special Advisors
 
 - **Assoc. Prof. Dr. Dulpichet Rerkpreedapong** — Vice Dean for Academic Affairs  
 - **Assoc. Prof. Dr. Anusorn Seubsai** — Head, Department of Chemical Engineering  
@@ -93,11 +93,11 @@ We are educators, researchers, and institutional builders — committed to build
 - **Assoc. Prof. Dr. Weerachai Chaiworapuek** — Head, Department of Mechanical Engineering  
 - **Assoc. Prof. Dr. Adichai Pornprommin** — Head, Department of Water Resources Engineering
 
-### 🎓 Program Director
+### Program Director
 
 - **Assoc. Prof. Dr. Punpiti Piamsa-nga** — Program Director & Head of Department of Computer Engineering
 
-### 🧑‍🔬 Program Committee
+### Program Committee
 
 - **Assoc. Prof. Dr. Somchai Numprasertchai** — Committee of AI-Integrated Engineering
 - **Assoc. Prof. Dr. Jittat Fakcharoenphol** — Program Chair of Computer Engineering
@@ -111,7 +111,7 @@ We are educators, researchers, and institutional builders — committed to build
 
 {{% blocks/section %}}
 
-## 🌏 Long-Term Vision
+## Long-Term Vision
 
 We don’t plan to stop at engineering.
 
