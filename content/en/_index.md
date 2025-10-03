@@ -14,7 +14,7 @@ The AI-Integrated Engineering Program (AIEP) at Kasetsart University is a ground
 
 From energy optimization and autonomous robotics to smart agriculture and urban flood prediction, AIEP trains you to apply AI across real-world problems with interdisciplinary teamwork and global insight.
 
-<small><em>** Note: Graduation from the master's program requires meeting standard admission and completion criteria.</em></small>
+<small><em>Graduation from the master's program requires meeting standard admission and completion criteria.*</em></small>
 {{% /blocks/lead %}}
 
 
@@ -44,20 +44,16 @@ Born at Kasetsart University, built for the world. AIEP gives you the global min
 
 {{% /blocks/section %}}
 
-
+<div class="text-center my-4 mt-5">
+<h1 class="display-6">
+Tracks accepting enrollment in academic year 2026
+</h1>
+</div>
 
 {{% blocks/section type="row" class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4"  %}}
 
-{{% blocks/feature icon="fas fa-vial" title="Chemical Engineering" url="docs/4plus1/chemical/" %}}
-Where materials meet molecules — and AI optimizes every reaction.
-{{% /blocks/feature %}}
-
 {{% blocks/feature icon="fas fa-city" title="Civil Engineering" url="docs/4plus1/civil/" %}}
 Design smart cities with AI-powered structural analysis and prediction.
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fas fa-bolt" title="Electrical Engineering" url="docs/4plus1/electrical/" %}}
-From smart grids to signal processing — AI amplifies your circuits.
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fas fa-leaf" title="Environmental Engineering" url="docs/4plus1/environmental/" %}}
@@ -76,9 +72,26 @@ Discover smarter materials through AI-driven simulations and experiments.
 Bring robotics, dynamics, and AI together to engineer future machines.
 {{% /blocks/feature %}}
 
+
+<div class="text-center my-4 mt-5">
+<h1 class="display-6">
+Tracks accepting enrollment in academic year 2027
+</h1>
+</div>
+
+{{% blocks/feature icon="fas fa-vial" title="Chemical Engineering" url="docs/4plus1/chemical/" %}}
+Where materials meet molecules — and AI optimizes every reaction.
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fas fa-bolt" title="Electrical Engineering" url="docs/4plus1/electrical/" %}}
+From smart grids to signal processing — AI amplifies your circuits.
+{{% /blocks/feature %}}
+
 {{% blocks/feature icon="fas fa-water" title="Water Resources Engineering" url="docs/4plus1/water/" %}}
 Predict floods, manage resources — AI meets hydrological systems.
 {{% /blocks/feature %}}
+
+
 
 {{% /blocks/section %}}
 
