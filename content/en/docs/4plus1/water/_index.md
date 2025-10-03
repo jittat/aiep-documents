@@ -1,6 +1,6 @@
 ---
 title: AI-Integrated Water Resources Engineering
-description: Transforming Water Resources Engineering with AI and Data for Sustainable Water Security.<br>**Accepting new enrollments next year (academic year 2027).**
+description: Transforming Water Resources Engineering with AI and Data for Sustainable Water Security.
 program: AIEP
 track: Water Resources Engineering
 tagline: Smart Water Management with Good Governance. Climate-Resilient Smart Water Management. Sustainable Water Management.
@@ -11,10 +11,12 @@ weight: 103
      alt="AI x Water Engineering"
      style="width:100%; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 
-> **AI-Integrated Water Resources Engineering** prepares engineers to manage one of the world’s most precious and threatened resources: water.  
-> From predicting floods in urban drainage systems to modeling groundwater flow and reservoir operations, AI enables smarter decisions for a climate-challenged future.
+{{% alert color=warning %}}
+**This program starts accepting new enrollments next year (academic year 2027).**
+{{% /alert %}}
 
-> Students will learn how to integrate hydrological modeling, environmental sensing, and machine learning to solve complex problems — with real datasets and real-world impact.
+**AI-Integrated Water Resources Engineering** prepares engineers to manage one of the world’s most precious and threatened resources: water. 
+From predicting floods in urban drainage systems to modeling groundwater flow and reservoir operations, AI enables smarter decisions for a climate-challenged future.Students will learn how to integrate hydrological modeling, environmental sensing, and machine learning to solve complex problems — with real datasets and real-world impact.
 
 ---
 

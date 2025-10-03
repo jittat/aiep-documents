@@ -1,6 +1,6 @@
 ---
 title: วิศวกรรมเคมีบูรณาการปัญญาประดิษฐ์ ธุรกิจ และความยั่งยืน (หลักสูตรนานาชาติ) 
-description: เตรียมความพร้อมให้วิศวกรเคมีรุ่นใหม่ เพื่อขับเคลื่อนนวัตกรรมด้วยข้อมูลในอุตสาหกรรมเคมี อาหาร ยา และพลังงาน <br>**เริ่มรับนิสิตปีการศึกษา 2570**
+description: เตรียมความพร้อมให้วิศวกรเคมีรุ่นใหม่ เพื่อขับเคลื่อนนวัตกรรมด้วยข้อมูลในอุตสาหกรรมเคมี อาหาร ยา และพลังงาน 
 program: AIEP
 track: Chemical Engineering
 tagline: จากกระบวนการสู่ความชาญฉลาด (From Process to Intelligence)
@@ -11,6 +11,9 @@ weight: 101
      alt="AI-Integrated Chemical Engineering"
      style="max-width: 100%; height: auto; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 
+{{% alert color=warning %}}
+**สาขานี้เริ่มรับนิสิตปีการศึกษา 2570**
+{{% /alert %}}
 
 **วิศวกรรมเคมีบูรณาการปัญญาประดิษฐ์ ธุรกิจ และความยั่งยืน (หลักสูตรนานาชาติ) (Chemical Engineering integrated with AI, Business, and Sustainability: IChEˣ)** คือหลักสูตรแห่งอนาคตที่พัฒนาร่วมกันโดยภาควิชาวิศวกรรมเคมี และภาควิชาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเกษตรศาสตร์
 
