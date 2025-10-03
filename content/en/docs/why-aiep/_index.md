@@ -52,15 +52,15 @@ weight: 2
 
 ##  Offered Tracks (2026 Onward)
 
-- AI-Integrated Chemical Engineering  
 - AI-Integrated Civil Engineering  
 - AI-Integrated Environmental Engineering  
 - AI-Integrated Industrial Engineering  
 - AI-Integrated Materials Engineering  
 - AI-Integrated Mechanical Engineering  
 
-##  Offered Tracks (2026 Onward)
+##  Offered Tracks (2027 Onward)
 
+- AI-Integrated Chemical Engineering  
 - AI-Integrated Electrical Engineering  
 - AI-Integrated Water Resources Engineering  
 
