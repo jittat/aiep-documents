@@ -25,9 +25,9 @@ From predicting floods in urban drainage systems to modeling groundwater flow an
 This track is part of the **AI-Integrated Engineering Program (AIEP)** and is offered as a **special program** under the Department of Water Resources Engineering.
 
 -  **Bachelor’s Program**: B.Eng. in Water Resources Engineering
--  **Master’s Program**: M.Eng. in AI-Integrated Engineering
+-  **Master’s Program**: M.Eng. in AI-Integrated Engineering (Regular Thai curriculum)
 -  **First intake**: Academic Year 2027
--  **Number of Students**: 20
+-  **Number of Students**: 10
 -  **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
 -  Not available in regular or IUP tracks
 

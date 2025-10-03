@@ -27,7 +27,7 @@ This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is of
 -  **Bachelor’s Program**: Bachelor of Engineering (Materials Engineering)
 -  **Master’s Program**: Master of Engineering (AI-Integrated Engineering)
 -  **First intake**: Academic Year 2026
--  **Number of Students**: 20
+-  **Number of Students**: 20 (Special program)
 -  **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
 -  Not available in regular or IUP tracks
 

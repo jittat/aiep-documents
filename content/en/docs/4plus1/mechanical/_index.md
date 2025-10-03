@@ -22,12 +22,12 @@ weight: 7
 
 ##  Program Overview
 
-This track is part of the **AI-Integrated Engineering Program (AIEP)** and offered as a **special program** under the Department of Mechanical Engineering.
+This track is part of the **AI-Integrated Engineering Program (AIEP)** and offered as an **international program** under the Department of Mechanical Engineering.
 
--  **Bachelor’s Program**: Bachelor of Engineering in Mechanical Engineering
--  **Master’s Program**: Master of Engineering in AI-Integrated Engineering
+-  **Bachelor’s Program**: Bachelor of Engineering in Mechanical Engineering (International Program)
+-  **Master’s Program**: Master of Engineering in AI-Integrated Engineering (Regular Thai curriculum)
 -  **First intake**: Academic Year 2026
--  **Number of Students**: 10
+-  **Number of Students**: 60
 -  **Admission Channels**: TCAS1 (Portfolio) IUP
 -  Not offered in the regular and special program
 

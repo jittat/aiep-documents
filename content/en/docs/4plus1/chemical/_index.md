@@ -28,7 +28,7 @@ The Bachelor of Engineering in Chemical Engineering integrated with Artificial I
 > The **AI-Integrated Engineering Program (AIEP)** is offered in a 4+1 integrated format between the IChEˣ program of the Department of Chemical Engineering and the Master of Engineering in AI-Integrated Engineering of the Department of Computer Engineering.
 
 -  **Bachelor’s Degree**: Bachelor of Engineering (Chemical Engineering integrated with AI, Business, and Sustainability – International Program)  
--  **Master’s Degree**: Master of Engineering (AI-Integrated Engineering)  
+-  **Master’s Degree**: Master of Engineering in AI-Integrated Engineering (Regular Thai curriculum)  
 -  **First Intake**: Academic Year 2027  
 -  **Number of Students**: 15  
 -  **Admission Channel**: TCAS Round 1 (Portfolio) IUP  

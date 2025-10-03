@@ -73,11 +73,11 @@ Graduates will be future-ready engineers who understand both the physics of real
 
 ##  Program Overview
 
--  **Bachelor’s Program**: Bachelor of Engineering (Electrical Engineering)
--  **Master’s Program**: Master of Engineering (AI-Integrated Engineering)
--  **First intake**: Academic Year 2027
--  **Number of Students**: 30
--  **Admission Channels**: TCAS1-3 IUP only
+- **Bachelor’s Program**: Bachelor of Engineering in Electrical Engineering (International Program)
+- **Master’s Program**: Master of Engineering in AI-Integrated Engineering (Regular Thai curriculum)
+- **First intake**: Academic Year 2027
+- **Number of Students**: 30
+- **Admission Channels**: TCAS1-3 IUP only
 
 ---
 

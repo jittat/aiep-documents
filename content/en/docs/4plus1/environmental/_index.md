@@ -19,12 +19,12 @@ Fast-Track 4+1 Program offers students the opportunity to complete a bachelor’
 
 ##  Program Overview
 
-This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is offered as a **special program** under the Department of Environmental Engineering.
+This track is part of the **AI-Integrated Engineering Program (AIEP)**. It is offered as a special collaboration with the Department of Environmental Engineering.
 
--  **Bachelor’s Program**: Bachelor of Engineering (Environmental Engineering)
--  **Master’s Program**: Master of Engineering (AI-Integrated Engineering)
+-  **Bachelor’s Program**: Bachelor of Engineering in Environmental Engineering (International Program)
+-  **Master’s Program**: Master of Engineering in AI-Integrated Engineering (Regular Thai curriculum)
 -  **First intake**: Academic Year 2026
--  **Number of Students**: 20
+-  **Number of Students**: 10
 -  **Eligible Group**: International Undergraduate Program (IUP)
 -  **Admission Channels**: TCAS1 (Portfolio), TCAS2, TCAS3 (Admission)
 

@@ -19,10 +19,10 @@ weight: 5
 
 This track is part of the **AI-Integrated Engineering Program (AIEP)** and offered only for **IUP (English Program)** under the Department of Industrial Engineering.
 
--  **Bachelor’s Program**: B.Eng. in Industrial Engineering
--  **Master’s Program**: M.Eng. in AI-Integrated Engineering
+-  **Bachelor’s Program**: B.Eng. in Industrial Engineering (International Program)
+-  **Master’s Program**: M.Eng. in AI-Integrated Engineering (Regular Thai curriculum)
 -  **First intake**: Academic Year 2026
--  **Number of Students**: 20
+-  **Number of Students**: 30 (IUP program)
 -  **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)
 -  Not offered in regular or special program (Thai Program)
 

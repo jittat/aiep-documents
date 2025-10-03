@@ -32,12 +32,14 @@ Modern civil engineers must design for complexity, uncertainty, and urban dynami
 ---
 
 ##  Program Overview
--  **Bachelor’s Program**: Bachelor of Engineering in Civil Engineering and Bachelor of Engineering in Survey Engineering and Geographic Information  
--  **Master’s Program**: Master of Engineering (AI-Integrated Engineering)  
--  **First intake**: Academic Year 2027  
--  **Number of Students**: 10 (Civil Engineering) + 10 (Survey Engineering and Geographic Information)  
--  **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)  
--  **Not available** in regular or IUP tracks  
+- **Bachelor’s Program**: Bachelor of Engineering in Civil Engineering (International Program) and Bachelor of Engineering in Survey Engineering and Geographic Information (Special Program) 
+- **Master’s Program**: Master of Engineering in AI-Integrated Engineering (Regular Thai curriculum)  
+- **First intake**: Academic Year 2026  
+- **Number of Students**: 
+  - 15 Civil Engineering (International Program)
+  - 10 Survey Engineering and Geographic Information (Special Program)  
+- **Admission Channels**: TCAS1 (Portfolio), TCAS2 (Quota)  
+- **Not available** in regular tracks  
 
 ---
 
