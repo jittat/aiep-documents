@@ -52,19 +52,17 @@ weight: 2
 
 ##  Offered Tracks (2026 Onward)
 
-- AI-Integrated Civil Engineering  
-- AI-Integrated Environmental Engineering  
-- AI-Integrated Industrial Engineering  
-- AI-Integrated Materials Engineering  
-- AI-Integrated Mechanical Engineering  
+- [AI-Integrated Civil Engineering](/docs/4plus1/civil/)
+- [AI-Integrated Environmental Engineering](/docs/4plus1/environmental/)
+- [AI-Integrated Industrial Engineering](/docs/4plus1/industrial/)
+- [AI-Integrated Materials Engineering](/docs/4plus1/materials/)
+- [AI-Integrated Mechanical Engineering](/docs/4plus1/mechanical/)
 
 ##  Offered Tracks (2027 Onward)
 
-- AI-Integrated Chemical Engineering  
-- AI-Integrated Electrical Engineering  
-- AI-Integrated Water Resources Engineering  
-
-➡️ Explore each track under **Bachelor + Master (4+1) Programs**.
+- [AI-Integrated Chemical Engineering](/docs/4plus1/chemical/)
+- [AI-Integrated Electrical Engineering](/docs/4plus1/electrical/)
+- [AI-Integrated Water Resources Engineering](/docs/4plus1/water/)
 
 ---
 
@@ -74,7 +72,7 @@ weight: 2
 A: No. We teach coding from zero. What's more important is your mindset: curiosity, logical thinking, and willingness to learn.
 
 **Q: Will I get two degrees?**  
-A: Yes — one B.Eng. in your core field and one M.Eng. in AI-Integrated Engineering (if you pass the GPA and performance requirements).
+A: Yes — one B.Eng. in your core field and one M.Eng. in AI-Integrated Engineering (if you pass the GPA and performance requirements).  The M.Eng degree is under active development; the Master curriculum will be approved before the graduate enrollment in academic year 2029.
 
 **Q: What if I just want to finish the Bachelor’s degree?**  
 A: That’s totally fine. The 4+1 model is flexible — you can complete your Bachelor’s degree with all the benefits of AIEP experience, and decide later whether to continue.
@@ -83,7 +81,7 @@ A: That’s totally fine. The 4+1 model is flexible — you can complete your Ba
 
 ##  Join Us — First Intake: Academic Year 2026
 
-- 🗓 Apply via TCAS1 (Portfolio) or TCAS3 (Admission)
+-  Apply via TCAS1 (Portfolio), TCAS2 (Quota), or TCAS3 (Admission).  (Details in each track.)
 -  Limited seats per track (20–25 students)
 
 ---

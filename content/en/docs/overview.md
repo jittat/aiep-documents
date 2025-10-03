@@ -8,9 +8,7 @@ weight: 1
      alt="AI-Integrated Engineering Overview"
      style="width:100%; margin: 0 0 2rem 0; border-radius: 1rem; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: block;" />
 
-{{% pageinfo %}}
-The AI-Integrated Engineering Program (AIEP) empowers engineering students with deep AI knowledge and practical skills to thrive in the age of intelligent systems.
-{{% /pageinfo %}}
+> The AI-Integrated Engineering Program (AIEP) empowers engineering students with deep AI knowledge and practical skills to thrive in the age of intelligent systems.
 
 ## What is AIEP?
 
@@ -45,5 +43,3 @@ Each academic track is co-developed by the Department of Computer Engineering an
 
 -  [4+1 Program](/docs/4plus1/)
 -  [Master’s Programs](/docs/master/)
--  [Getting Started Guide](/docs/getting-started/)
-- ❓ [FAQ](/docs/faq/)
