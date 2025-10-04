@@ -31,8 +31,8 @@ You’ll learn how **AI can optimize and extend what you already understand**:
 - Intelligent robots and automated control systems  
 - Enhancing communication efficiency using AI-based models
 
-> No need to be an AI expert from day one.  
-> You bring the **engineering mindset** — and we’ll bring the AI tools to amplify your impact.
+No need to be an AI expert from day one.  
+You bring the **engineering mindset** — and we’ll bring the AI tools to amplify your impact.
 
 Graduates will be future-ready engineers who understand both the physics of real-world systems and how to use AI to make them more robust, efficient, and adaptive.
 
@@ -40,34 +40,29 @@ Graduates will be future-ready engineers who understand both the physics of real
 
 ##  Key Focus Areas in AI x Electrical Engineering
 
-### 1. Smart Grid and Energy Systems
-- Forecasting electricity demand (hourly, daily, weekly)
-- Real-time control of renewable energy sources (solar, wind)
-- Detection of anomalies in power transmission and distribution systems
-- Predictive maintenance and fault forecasting
-
-### 2. AI in Control Systems & Robotics
-- AI-based intelligent control systems (Adaptive PID, Reinforcement Learning)
-- Intelligent robots and autonomous mobility systems
-- Autonomous vehicles, drones, and industrial automation systems
-
-### 3. AI in Communications
-- Channel and network resource management
-- Detection and prevention of anomalies in communication systems
-- Intelligent communication systems and automated networks
-
-### 4. AI for Signal and Image Processing
-- Signal classification, noise reduction, quality enhancement, and data compression
-- Biometric analysis and authentication
-- Analysis and prediction of medical signals (ECG, EEG), smart CCTV, and voice-controlled systems
-
-### 5. AI & Embedded / Edge AI
-- Artificial intelligence on microcontrollers and embedded systems
-- Intelligent sensors and smart detection systems
-
-### 6. Power Electronics & Electric Vehicles (EV)
-- AI-controlled inverters and converters
-- Battery life prediction, motor control, and fault detection in EVs
+- Smart Grid and Energy Systems
+  - Forecasting electricity demand (hourly, daily, weekly)
+  - Real-time control of renewable energy sources (solar, wind)
+  - Detection of anomalies in power transmission and distribution systems
+  - Predictive maintenance and fault forecasting
+- AI in Control Systems & Robotics
+  - AI-based intelligent control systems (Adaptive PID, Reinforcement Learning)
+  - Intelligent robots and autonomous mobility systems
+  - Autonomous vehicles, drones, and industrial automation systems
+- AI in Communications
+  - Channel and network resource management
+  - Detection and prevention of anomalies in communication systems
+  - Intelligent communication systems and automated networks
+- AI for Signal and Image Processing
+  - Signal classification, noise reduction, quality enhancement, and data compression
+  - Biometric analysis and authentication
+  - Analysis and prediction of medical signals (ECG, EEG), smart CCTV, and voice-controlled systems
+- AI & Embedded / Edge AI
+  - Artificial intelligence on microcontrollers and embedded systems
+  - Intelligent sensors and smart detection systems
+- Power Electronics & Electric Vehicles (EV)
+  - AI-controlled inverters and converters
+  - Battery life prediction, motor control, and fault detection in EVs
 
 ---
 

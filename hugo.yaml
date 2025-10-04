@@ -134,7 +134,7 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: Kasetsart University | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+    authors: Kasetsart University
     from_year: 2025
 
   # User interface configuration
