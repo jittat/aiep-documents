@@ -86,8 +86,123 @@ weight: 5
 - โครงงานวิศวกรรมระดับชั้นปีที่ 4 จะเชื่อมโยงกับหัวข้อวิทยานิพนธ์ในระดับปริญญาโท
 - จะได้รับปริญญาวิศวกรรมศาสตรบัณฑิต และ[วิศวกรรมศาสตรมหาบัณฑิต](/docs/master/ai-integrated)ภายในเวลา 5 ปี และพร้อมที่จะเป็นวิศวกรยุคใหม่
 
-แผนการเรียนโดยละเอียด*จะประกาศเร็ว ๆ นี้*  สามารถอ่านเกี่ยวกับ[รายวิชาพื้นฐานด้าน AI ระดับปริญญาตรี](/docs/ai-core-courses) และ[หลักสูตรระดับปริญญาโท](/docs/master/ai-itegrated)ได้
-	
+แผนการเรียนโดยละเอียดแสดงด้านล่าง สามารถอ่านเกี่ยวกับ[รายวิชาพื้นฐานด้าน AI ระดับปริญญาตรี](/docs/ai-core-courses) และ[หลักสูตรระดับปริญญาโท](/docs/master/ai-itegrated)ได้
+
+### แผนการเรียน
+
+<table class="table">
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">ชั้นปีที่ 1 ภาคต้น</th></tr>
+<tr><td>01208111</td><td>การเขียนแบบวิศวกรรม</td><td>3 (2-3-6)</td><td></td></tr>
+<tr><td>01417167</td><td>คณิตศาสตร์วิศวกรรม I</td><td>3 (3-5-6)</td><td></td></tr>
+<tr><td>01420111</td><td>ฟิสิกส์ทั่วไป I</td><td>3 (3-5-6)</td><td></td></tr>
+<tr><td>01420113</td><td>ปฏิบัติการฟิสิกส์ I</td><td>1 (5-3-2)</td><td></td></tr>
+<tr><td>51999111</td><td>ศาสตร์แห่งแผ่นดิน</td><td>2 (2-5-4)</td><td></td></tr>
+<tr><td></td><td>วิชาภาษาไทย</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>วิชาสารสนเทศ/คอมพิวเตอร์</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>วิชาศึกษาทั่วไป กลุ่มสาระสุนทรียศาสตร์</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>รวม</td><td>21 (- -)</td><td></td></tr>
+<tr class="table-success"><th></th><th colspan="3">ชั้นปีที่ 1 ภาคปลาย</th></tr>
+<tr><td>01204111</td><td>คอมพิวเตอร์และการโปรแกรม</td><td>3 (2-3-6)</td><td></td></tr>
+<tr><td>01403114</td><td>ปฏิบัติการหลักมูลเคมีทั่วไป</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01403117</td><td>หลักมูลเคมีทั่วไป</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01417168</td><td>คณิตศาสตร์วิศวกรรม II</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01175xxx</td><td>กิจกรรมพลศึกษา</td><td>1 (0-2-1)</td><td></td></tr>
+<tr><td></td><td>ภาษาต่างประเทศ 1 ภาษา</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>วิชาศึกษาทั่วไป กลุ่มสาระอยู่ดีมีสุข</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>วิชาศึกษาทั่วไป กลุ่มสาระศาสตร์แห่งผู้ประกอบการ</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>รวม</td><td>20 (- -)</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">ชั้นปีที่ 2 ภาคต้น</th></tr>
+<tr><td>01206221</td><td>ความน่าจะเป็นและสถิติประยุกต์สำหรับวิศวกร</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01208221</td><td>กลศาสตรวิศวกรรม I</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01208241</td><td>อุณหพลศาสตร์</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01208281</td><td>การฝึกงานโรงงาน</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01213211</td><td>วัสดุศาสตร์สำหรับวิศวกร</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01417267</td><td>คณิตศาสตร์วิศวกรรม III</td><td>3 (3-0-6)</td><td></td></tr>
+<tr class="table-info"><td><b>01204162</b></td><td><b>เอไอประยุกต์สำหรับงานวิศวกรรม</b></td><td><b>3 (3-0-6)</b></td><td><b>รายวิชาพื้นฐานด้าน AI</b></td></tr>
+<tr><td></td><td>รวม</td><td>19 (- -)</td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">ชั้นปีที่ 2 ภาคปลาย</th></tr>
+<tr><td>01205201</td><td>วิศวกรรมไฟฟ้าเบื้องต้น</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206223</td><td>การออกแบบแผนการทดลองเบื้องต้นสำหรับวิศวกร</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206224</td><td>การวิเคราะห์ข้อมูลเบื้องต้นสำหรับวิศวกรอุตสาหการ</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206251</td><td>เศรษฐศาสตร์วิศวกรรม</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206272</td><td>ความปลอดภัยในอุตสาหกรรม</td><td>3 (3-0-6)</td><td></td></tr>
+<tr class="table-info"><td><b>01204261</b></td><td><b>คณิตศาสตร์พื้นฐานสำหรับเอไอประยุกต์</b></td><td><b>3 (3-0-6)</b></td><td><b>รายวิชาพื้นฐานด้าน AI</b></td></tr>
+<tr><td></td><td>ภาษาต่างประเทศ 1 ภาษา</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>รวม</td><td>21 (- -)</td><td></td></tr>
+<tr></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">ชั้นปีที่ 3 ภาคต้น</th></tr>
+<tr><td>01205202</td><td>ปฏิบัติการวิศวกรรมไฟฟ้า I</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01206311</td><td>กระบวนการผลิต I</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206321</td><td>การวิจัยการดำเนินงานสำหรับวิศวกร I</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206341</td><td>การศึกษาการทำงานทางอุตสาหกรรม</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206381</td><td>ปฏิบัติการวิศวกรรมอุตสาหการ I</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01208381</td><td>ปฏิบัติการวิศวกรรมเครื่องกล I</td><td>1 (0-3-2)</td><td></td></tr>
+<tr class="table-info"><td><b>01204262 </b></td><td><b>หลักการโปรแกรมเพื่อการประมวลผลข้อมูลสำหรับเอไอประยุกต์</b></td><td><b>3 (3-0-6)</b></td><td><b>รายวิชาพื้นฐานด้าน AI</b></td></tr>
+<tr><td></td><td>ภาษาต่างประเทศ ภาษา 1</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>วิชาศึกษาทั่วไป กลุ่มสาระอยู่ดีมีสุข</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>รวม</td><td>21 (- -)</td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">ชั้นปีที่ 3 ภาคปลาย</th></tr>
+<tr><td>01206312</td><td>การศึกษาอุตสาหกรรม</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01206322</td><td>การควบคุมคุณภาพ</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206323</td><td>การวิจัยการดำเนินงานสำหรับวิศวกร II</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206342</td><td>การวางแผนและการควบคุมการผลิต</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206343</td><td>การออกแบบโรงงานอุตสาหกรรม</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206361</td><td>คอมพิวเตอร์ประยุกต์สำหรับวิศวกรอุตสาหการ</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206362</td><td>ระบบการผลิตอัตโนมัติ</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206382</td><td>ปฏิบัติการวิศวกรรมอุตสาหการ II</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td></td><td>รวม</td><td>20 (- -)</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">ชั้นปีที่ 4 ภาคต้น</th></tr>
+<tr><td>01206399</td><td>การฝึกงาน</td><td>1</td><td></td></tr>
+<tr><td>01206452</td><td>บัญชีการเงินและการวิเคราะห์ต้นทุนทางอุตสาหกรรม</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01206495</td><td>การเตรียมโครงงานวิศวกรรมอุตสาหการ</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td></td><td>วิชาเฉพาะเลือก</td><td>9 (- -)</td><td></td></tr>
+<tr><td></td><td>วิชาเลือกเสรี</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>รวม</td><td>17 (- -)</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr class="table-secondary"><th></th><th colspan="3">รายวิชาระดับบัณฑิตศึกษา (เรียนตอนปี 4 ภาคต้น)</th></tr>
+<tr><td>01204xxx</td><td>Research methodology</td><td>1</td><td>รายวิชาบังคับระดับบัณฑิตศึกษา</td></tr>
+<tr><td>01204xxx</td><td>Data Acquisition</td><td>1</td><td>รายวิชาบังคับระดับบัณฑิตศึกษา</td></tr>
+<tr><td>01204xxx</td><td>Data Preprocessing</td><td>1</td><td>รายวิชาบังคับระดับบัณฑิตศึกษา</td></tr>
+<tr><td>01204xxx</td><td>Database and Data Warehouse</td><td>1</td><td>รายวิชาบังคับระดับบัณฑิตศึกษา</td></tr>
+<tr><td></td><td>Electives</td><td>2 - 3</td><td>รายวิชาเลือกระดับบัณฑิตศึกษา</td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">ชั้นปีที่ 4 ภาคปลาย</th></tr>
+<tr><td>01206497</td><td>สัมมนา</td><td>1</td><td></td></tr>
+<tr><td>01206499</td><td>โครงงานวิศวกรรมอุตสาหการ</td><td>2 (0-6-3)</td><td></td></tr>
+<tr><td></td><td>วิชาเฉพาะเลือก</td><td>9 (- -)</td><td></td></tr>
+<tr><td></td><td>วิชาเลือกเสรี</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>รวม</td><td>15 (- -)</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-secondary"><th></th><th colspan="3">รายวิชาระดับบัณฑิตศึกษา (เรียนตอนปี 4 ภาคปลาย)</th></tr>
+<tr><td>01204xxx</td><td>Seminar</td><td>1</td><td>รายวิชาบังคับระดับบัณฑิตศึกษา</td></tr>
+<tr><td>01204xxx</td><td>Advanced Machine Learning I</td><td>1</td><td>รายวิชาบังคับระดับบัณฑิตศึกษา</td></tr>
+<tr><td>01204xxx</td><td>Advanced Machine Learning II</td><td>1</td><td>รายวิชาบังคับระดับบัณฑิตศึกษา</td></tr>
+<tr><td>01204xxx</td><td>AI for data interpretation</td><td>1</td><td>รายวิชาบังคับระดับบัณฑิตศึกษา</td></tr>
+<tr><td></td><td>Electives</td><td>2 - 3</td><td>รายวิชาเลือกระดับบัณฑิตศึกษา</td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">บัณฑิตศึกษาปีที่ 1 ภาคต้น</th></tr>
+<tr><td>01204xxx</td><td>Seminar</td><td>1</td><td>รายวิชาบังคับระดับบัณฑิตศึกษา</td></tr>
+<tr><td>01204xxx</td><td>Thesis</td><td>6</td><td>วิทยานิพนธ์</td></tr>
+<tr><td></td><td>Electives</td><td>6 - 7</td><td>รายวิชาเลือกระดับบัณฑิตศึกษา</td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">บัณฑิตศึกษาปีที่ 1 ภาคปลาย</th></tr>
+<tr><td>01204xxx</td><td>Thesis</td><td>6</td><td>วิทยานิพนธ์</td></tr>
+<tr><td></td><td>Electives</td><td>3 - 4 </td><td>รายวิชาเลือกระดับบัณฑิตศึกษา</td></tr>
+</table>
+
 ---
 
 ##  เส้นทางอาชีพ
