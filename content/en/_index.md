@@ -52,10 +52,6 @@ Tracks accepting enrollment in academic year 2026
 
 {{% blocks/section type="row" class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4"  %}}
 
-{{% blocks/feature icon="fas fa-city" title="Civil Engineering" url="docs/4plus1/civil/" %}}
-Design smart cities with AI-powered structural analysis and prediction.
-{{% /blocks/feature %}}
-
 {{% blocks/feature icon="fas fa-leaf" title="Environmental Engineering" url="docs/4plus1/environmental/" %}}
 Tackle pollution and climate change with data-driven environmental solutions.
 {{% /blocks/feature %}}
@@ -78,6 +74,10 @@ Bring robotics, dynamics, and AI together to engineer future machines.
 Tracks accepting enrollment in academic year 2027
 </h1>
 </div>
+
+{{% blocks/feature icon="fas fa-city" title="Civil Engineering" url="docs/4plus1/civil/" %}}
+Design smart cities with AI-powered structural analysis and prediction.
+{{% /blocks/feature %}}
 
 {{% blocks/feature icon="fas fa-vial" title="Chemical Engineering" url="docs/4plus1/chemical/" %}}
 Where materials meet molecules — and AI optimizes every reaction.

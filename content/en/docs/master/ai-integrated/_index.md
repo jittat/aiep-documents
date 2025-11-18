@@ -9,13 +9,16 @@ weight: 1
 
 The **Master of Engineering in AI-Integrated Engineering** is a graduate program designed to empower professionals with both domain-specific engineering expertise and applied artificial intelligence (AI) capabilities.
 
-This program is open to graduates from **all disciplines**, not just computer science or engineering. It is structured to be **completed within 2 years** and is especially ideal for students coming from the **4+1 academic track** at Kasetsart University. These students benefit from prior exposure to AI foundations and research integration during their undergraduate senior project, allowing them to fast-track through the program without repeating fundamental training.
+This program is open to graduates from **all disciplines**, not just computer science or computer engineering. It is structured to be **completed within 2 years** and is especially ideal for students coming from the **4+1 academic track** at Kasetsart University. With prior exposure to AI foundations and research integration during their undergraduate senior project, students from this track can fast-track through the program without repeating fundamental training.
+
+
 
 ## Key Features
 
--  **AI-Driven Specialization**: Students apply AI techniques (e.g., machine learning, data science, computer vision) to real-world problems within their domain.
--  **Deep + Applied Learning**: While the focus is application-oriented, students will gain **deep conceptual understanding** and learn to integrate AI with prior engineering knowledge.
--  **For Everyone, Optimized for 4+1**: Students from any background can succeed, but those from the 4+1 track will pursue advanced integration and research right away.  Students with relatively light background must take foundational AI/practical programming preparation courses.
+- **AI-Driven Specialization**: Students apply AI techniques—such as machine learning, data science, and computer vision—to real-world problems rooted in their engineering domain.
+- **Theoretical and Practical Learning**: Although the program emphasizes practical application, students also gain a strong conceptual foundation and learn to integrate AI with their engineering expertise.
+- **Suitable for all Engineers, but Optimized for 4+1**: While students from diverse academic backgrounds are welcome, the course is specifically designed for those with an engineering foundation. Participants from Kasetsart University's 4+1 track are especially well-prepared to dive into advanced integration and research from the outset. Those with limited exposure to AI or programming will begin with preparatory courses in foundational AI and practical coding.
+
 
 ## Graduation Requirements
 
@@ -29,7 +32,7 @@ To complete the degree, students must:
 
 Graduates will be equipped to:
 
-- Work as **Data Analysts**, **AI Engineers**, or **Smart System Developers**
+- Work as **Data Analysts**, **AI-empowered Engineers**, or **Smart System Developers**
 - Return to their **original engineering careers**, now empowered with AI thinking and tools
 - Contribute to **interdisciplinary innovation teams** in both industry and academia
 
@@ -37,7 +40,7 @@ Graduates will be equipped to:
 
 The program consists of core AI courses and elective courses that allow students to deepen their expertise in various areas. Students will also conduct applied research in collaboration with the department’s diverse laboratories within the Faculty of Engineering, enabling them to produce and publish high-quality research.
 
-The curriculum will be a Plan A Option A2 with the following structure.
+The curriculum will have the following structure.
 
 <table>
   <thead>

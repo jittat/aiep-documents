@@ -48,10 +48,6 @@ AIEP ถือกำเนิดจากมหาวิทยาลัยเก
 </h1>
 </div>
 
-{{% blocks/feature icon="fas fa-city" title="วิศวกรรมโยธา" url="docs/4plus1/civil/" %}}
-ออกแบบเมืองอัจฉริยะด้วยการวิเคราะห์โครงสร้างและการพยากรณ์ที่ขับเคลื่อนด้วย AI
-{{% /blocks/feature %}}
-
 {{% blocks/feature icon="fas fa-leaf" title="วิศวกรรมสิ่งแวดล้อม" url="docs/4plus1/environmental/" %}}
 รับมือปัญหามลพิษและภาวะโลกร้อนด้วยโซลูชันสิ่งแวดล้อมที่ขับเคลื่อนด้วยข้อมูล
 {{% /blocks/feature %}}
@@ -74,6 +70,10 @@ AIEP ถือกำเนิดจากมหาวิทยาลัยเก
 เริ่มรับปีการศึกษา 2570
 </h1>
 </div>
+
+{{% blocks/feature icon="fas fa-city" title="วิศวกรรมโยธา" url="docs/4plus1/civil/" %}}
+ออกแบบเมืองอัจฉริยะด้วยการวิเคราะห์โครงสร้างและการพยากรณ์ที่ขับเคลื่อนด้วย AI
+{{% /blocks/feature %}}
 
 {{% blocks/feature icon="fas fa-vial" title="วิศวกรรมเคมี" url="docs/4plus1/chemical/" %}}
 เมื่อวัสดุและโมเลกุลมาบรรจบ — AI จะช่วยเพิ่มประสิทธิภาพให้ทุกปฏิกิริยา

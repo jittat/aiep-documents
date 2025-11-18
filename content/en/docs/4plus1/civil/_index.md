@@ -4,7 +4,7 @@ description: "Civil Engineering for the AI age—designing intelligent, sustaina
 program: "AIEP"
 track: "Civil Engineering"
 tagline: "From Structures to Smart Cities."
-weight: 1
+weight: 101
 ---
 
 <img src="/img/banners/civil-hero-new.png"
@@ -34,7 +34,7 @@ Modern civil engineers must design for complexity, uncertainty, and urban dynami
 ##  Program Overview
 - **Bachelor’s Program**: Bachelor of Engineering in Civil Engineering (International Program) and Bachelor of Engineering in Survey Engineering and Geographic Information (Special Program) 
 - **Master’s Program**: Master of Engineering in AI-Integrated Engineering (Regular Thai curriculum)  
-- **First intake**: Academic Year 2026  
+- **First intake**: Academic Year 2027  
 - **Number of Students**: 
   - 15 Civil Engineering (International Program)
   - 10 Survey Engineering and Geographic Information (Special Program)  
