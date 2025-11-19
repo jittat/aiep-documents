@@ -164,7 +164,7 @@ weight: 5
 <tr><td>01206399</td><td>การฝึกงาน</td><td>1</td><td></td></tr>
 <tr><td>01206452</td><td>บัญชีการเงินและการวิเคราะห์ต้นทุนทางอุตสาหกรรม</td><td>3 (3-0-6)</td><td></td></tr>
 <tr><td>01206495</td><td>การเตรียมโครงงานวิศวกรรมอุตสาหการ</td><td>1 (0-3-2)</td><td></td></tr>
-<tr><td></td><td>วิชาเฉพาะเลือก</td><td>9 (- -)</td><td></td></tr>
+<tr><td></td><td>วิชาเฉพาะเลือก</td><td>6 (- -)</td><td></td></tr>
 <tr><td></td><td>วิชาเลือกเสรี</td><td>3 (- -)</td><td></td></tr>
 <tr><td></td><td>รวม</td><td>17 (- -)</td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>
@@ -179,7 +179,7 @@ weight: 5
 <tr class="table-success"><th></th><th colspan="3">ชั้นปีที่ 4 ภาคปลาย</th></tr>
 <tr><td>01206497</td><td>สัมมนา</td><td>1</td><td></td></tr>
 <tr><td>01206499</td><td>โครงงานวิศวกรรมอุตสาหการ</td><td>2 (0-6-3)</td><td></td></tr>
-<tr><td></td><td>วิชาเฉพาะเลือก</td><td>9 (- -)</td><td></td></tr>
+<tr><td></td><td>วิชาเฉพาะเลือก</td><td>3 (- -)</td><td></td></tr>
 <tr><td></td><td>วิชาเลือกเสรี</td><td>3 (- -)</td><td></td></tr>
 <tr><td></td><td>รวม</td><td>15 (- -)</td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>

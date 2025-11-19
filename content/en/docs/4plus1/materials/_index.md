@@ -82,7 +82,118 @@ Throughout the program, students will develop skills in cross-functional collabo
 - 4th-year project linked to Master’s research in the 5th year.
 - Two degrees (B.Eng. + [M.Eng.](/docs/master/ai-integrated)) in 5 years for future professionals.
 
-The detailed study plan will be *available soon*.  Read more about the [undergraduate AI core courses](/docs/ai-core-courses) and the [Master program](/docs/master/ai-integrated).
+The detailed study plan is shown below.  Read more about the [undergraduate AI core courses](/docs/ai-core-courses) and the [Master program](/docs/master/ai-integrated).
+
+### Study plan
+
+<table class="table">
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">Year 1, First semester</th></tr>
+<tr><td>01999111</td><td>Wisdom of the Land</td><td>2 (2-0-4)</td><td></td></tr>
+<tr><td>01208111</td><td>Engineering Drawing</td><td>3 (2-3-6)</td><td></td></tr>
+<tr><td>01417167</td><td>Engineering Mathematics I</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01420111</td><td>General Physics I</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01420113</td><td>Physics Laboratory I</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01999xxx</td><td>Thai Language</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01355xxx</td><td>Foreign Language Course (1 Language)</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>General Education - IT/Computing</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>Total</td><td>21 (- -)</td><td></td></tr>
+<tr class="table-success"><th></th><th colspan="3">Year 1, Second semester</th></tr>
+<tr><td>01200101</td><td>Innovative Thinking</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01204111</td><td>Computer and Programming</td><td>3 (2-3-6)</td><td></td></tr>
+<tr><td>01213211</td><td>Materials Science for Engineers</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01403114</td><td>Laboratory in Fundamentals of General Chemistry</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01403117</td><td>Fundamentals of General Chemistry</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01417168</td><td>Engineering Mathematics II</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01420112</td><td>General Physics II</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01420114</td><td>Laboratory in Physics II</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td></td><td>Total</td><td>20 (- -)</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">Year 2, First semester</th></tr>
+<tr><td>01206221</td><td>Applied Probability and Statistics for Engineers</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01208221</td><td>Engineering Mechanics I</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01213212</td><td>Fundamental of Inorganic Materials</td><td>4 (4-0-8)</td><td></td></tr>
+<tr><td>01213213</td><td>Principle Chemistry for Organic Materials</td><td>4 (4-0-8)</td><td></td></tr>
+<tr><td>01213214</td><td>Principle Chemistry Laboratory for Organic Materials</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01175xxx</td><td>Physical Education</td><td>1 (0-2-1)</td><td></td></tr>
+<tr><td>01355xxx</td><td>Foreign Language Course (1 Language)</td><td>3 (- -)</td><td></td></tr>
+<tr class="table-info"><td><b>01204262 </b></td><td><b>Programming Principles for Data Processing and Analysis for Applied AI</b></td><td><b>3 (3-0-6)</b></td><td><b>AI Foundation Course</b></td></tr>
+<tr><td></td><td>Total</td><td>22 (- -)</td><td></td></tr>
+<tr class="table-success"><th></th><th colspan="3">Year 2, Second semester</th></tr>
+<tr><td>01205201</td><td>Introduction to Electrical Engineering</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01208281</td><td>Workshop Practice</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01213216</td><td>Mechanical Behavior of Materials</td><td>4 (4-0-8)</td><td></td></tr>
+<tr><td>01213217</td><td>Thermodynamics of Materials</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01213218</td><td>Manufacturing Processes for Materials Engineers</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01213219</td><td>Materials Processing Laboratory</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01417267</td><td>Engineering Mathematics III</td><td>3 (3-0-6)</td><td></td></tr>
+<tr class="table-info"><td><b>01204162</b></td><td><b>Applied AI for Engineering</b></td><td><b>3 (3-0-6)</b></td><td><b>AI Foundation Course</b></td></tr>
+<tr><td></td><td>Total</td><td>21 (- -)</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">Year 3, First semester</th></tr>
+<tr><td>01205202</td><td>Electrical Engineering Laboratory I</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01208381</td><td>Mechanical Engineering Laboratory I</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01213311</td><td>Principle of Characterization Techniques</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01213312</td><td>Materials Characterization and Properties Analysis Laboratory</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01213313</td><td>Kinetics and Transport Phenomena in Materials Engineering</td><td>4 (4-0-8)</td><td></td></tr>
+<tr><td>01213314</td><td>Failure Analysis and Prevention</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01213395</td><td>Research Proposal Preparation</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td></td><td>Total</td><td>14 (- -)</td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">Year 3, Second semester</th></tr>
+<tr><td>01213316</td><td>Materials Industry in Thailand</td><td>1 (0-3-2)</td><td></td></tr>
+<tr><td>01213497</td><td>Seminar</td><td>1 (- -)</td><td></td></tr>
+<tr><td>01355xxx</td><td>Foreign Language Course (1 Language)</td><td>3 (- -)</td><td></td></tr>
+<tr class="table-info"><td><b>01204261</b></td><td><b>Mathematical Foundations for Applied AI</b></td><td><b>3 (3-0-6)</b></td><td><b>AI Foundation Course</b></td></tr>
+<tr><td></td><td>General Education – Well-Being Studies</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>Free Elective</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>General Education – Aesthetic Studies</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>Total</td><td>20 (- -)</td><td></td></tr>
+<tr></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">Year 4, First semester</th></tr>
+<tr><td>01213399</td><td>Intership</td><td>1</td><td></td></tr>
+<tr><td></td><td>Major Elective</td><td>6 (- -)</td><td></td></tr>
+<tr><td></td><td>Free Elective</td><td>3 (- -)</td><td></td></tr>
+<tr><td></td><td>Total</td><td>10 (- -)</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr class="table-secondary"><th></th><th colspan="3">Graduate courses (enrolled on year 4, first semester)</th></tr>
+<tr><td>01204xxx</td><td>Research methodology</td><td>1</td><td>Graduate required course</td></tr>
+<tr><td>01204xxx</td><td>Data Acquisition</td><td>1</td><td>Graduate required course</td></tr>
+<tr><td>01204xxx</td><td>Data Preprocessing</td><td>1</td><td>Graduate required course</td></tr>
+<tr><td>01204xxx</td><td>Database and Data Warehouse</td><td>1</td><td>Graduate required course</td></tr>
+<tr><td></td><td>Electives</td><td>2 - 3</td><td>Graduate elective course</td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">Year 4, Second semester</th></tr>
+<tr><td>01213411</td><td>Materials Selection and Engineering Design</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01213412</td><td>Production Management for Materials Industry</td><td>3 (3-0-6)</td><td></td></tr>
+<tr><td>01213499</td><td>Materials Engineering Project</td><td>3 (0-9-5)</td><td></td></tr>
+<tr><td></td><td>Total</td><td>9 (- -)</td><td></td></tr>
+<tr></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-secondary"><th></th><th colspan="3">Graduate courses (enrolled on year 4, second semester)</th></tr>
+<tr><td>01204xxx</td><td>Seminar</td><td>1</td><td>Graduate required course</td></tr>
+<tr><td>01204xxx</td><td>Advanced Machine Learning I</td><td>1</td><td>Graduate required course</td></tr>
+<tr><td>01204xxx</td><td>Advanced Machine Learning II</td><td>1</td><td>Graduate required course</td></tr>
+<tr><td>01204xxx</td><td>AI for data interpretation</td><td>1</td><td>Graduate required course</td></tr>
+<tr><td></td><td>Electives</td><td>2 - 3</td><td>Graduate elective course</td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">Graduate year 1, First semester</th></tr>
+<tr><td>01204xxx</td><td>Seminar</td><td>1</td><td>Graduate required course</td></tr>
+<tr><td>01204xxx</td><td>Thesis</td><td>6</td><td>Graduate thesis</td></tr>
+<tr><td></td><td>Electives</td><td>6 - 7</td><td>Graduate elective course</td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr></tr>
+<tr class="table-success"><th></th><th colspan="3">Graduate year 2, Second semester</th></tr>
+<tr><td>01204xxx</td><td>Thesis</td><td>6</td><td>Graduate thesis</td></tr>
+<tr><td></td><td>Electives</td><td>3 - 4 </td><td>Graduate elective course</td></tr>
+</table>
 
 ---
 
