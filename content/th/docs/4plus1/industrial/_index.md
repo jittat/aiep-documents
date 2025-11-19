@@ -166,7 +166,7 @@ weight: 5
 <tr><td>01206495</td><td>การเตรียมโครงงานวิศวกรรมอุตสาหการ</td><td>1 (0-3-2)</td><td></td></tr>
 <tr><td></td><td>วิชาเฉพาะเลือก</td><td>6 (- -)</td><td></td></tr>
 <tr><td></td><td>วิชาเลือกเสรี</td><td>3 (- -)</td><td></td></tr>
-<tr><td></td><td>รวม</td><td>17 (- -)</td><td></td></tr>
+<tr><td></td><td>รวม</td><td>14 (- -)</td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>
 <tr class="table-secondary"><th></th><th colspan="3">รายวิชาระดับบัณฑิตศึกษา (เรียนตอนปี 4 ภาคต้น)</th></tr>
 <tr><td>01204xxx</td><td>Research methodology</td><td>1</td><td>รายวิชาบังคับระดับบัณฑิตศึกษา</td></tr>
@@ -181,7 +181,7 @@ weight: 5
 <tr><td>01206499</td><td>โครงงานวิศวกรรมอุตสาหการ</td><td>2 (0-6-3)</td><td></td></tr>
 <tr><td></td><td>วิชาเฉพาะเลือก</td><td>3 (- -)</td><td></td></tr>
 <tr><td></td><td>วิชาเลือกเสรี</td><td>3 (- -)</td><td></td></tr>
-<tr><td></td><td>รวม</td><td>15 (- -)</td><td></td></tr>
+<tr><td></td><td>รวม</td><td>9 (- -)</td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>
 <tr></tr>
 <tr class="table-secondary"><th></th><th colspan="3">รายวิชาระดับบัณฑิตศึกษา (เรียนตอนปี 4 ภาคปลาย)</th></tr>

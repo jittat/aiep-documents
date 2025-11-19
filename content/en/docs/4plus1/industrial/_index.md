@@ -164,7 +164,7 @@ The detailed study plan is shown below.  Read more about the [undergraduate AI c
 <tr><td>01206495</td><td>Industrial Engineering Project Preparation</td><td>1 (0-3-2)</td><td></td></tr>
 <tr><td></td><td>Major Elective</td><td>6 (- -)</td><td></td></tr>
 <tr><td></td><td>Free Elective</td><td>3 (- -)</td><td></td></tr>
-<tr><td></td><td>Total</td><td>17 (- -)</td><td></td></tr>
+<tr><td></td><td>Total</td><td>14 (- -)</td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>
 <tr class="table-secondary"><th></th><th colspan="3">Graduate courses (enrolled on year 4, first semester)</th></tr>
 <tr><td>01204xxx</td><td>Research methodology</td><td>1</td><td>Graduate required course</td></tr>
@@ -179,7 +179,7 @@ The detailed study plan is shown below.  Read more about the [undergraduate AI c
 <tr><td>01206499</td><td>Industrial Engineering Project</td><td>2 (0-6-3)</td><td></td></tr>
 <tr><td></td><td>Major Elective</td><td>3 (- -)</td><td></td></tr>
 <tr><td></td><td>Free Elective</td><td>3 (- -)</td><td></td></tr>
-<tr><td></td><td>Total</td><td>15 (- -)</td><td></td></tr>
+<tr><td></td><td>Total</td><td>9 (- -)</td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>
 <tr></tr>
 <tr class="table-secondary"><th></th><th colspan="3">Graduate courses (enrolled on year 4, second semester)</th></tr>
